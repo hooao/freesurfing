@@ -16,6 +16,8 @@ if [ $diffcount != 0 ]; then
    git add freesurfing.ip
    git commit -m "update`date '+%Y%m%d%H%M'`"
    git pull && git push
+else
+   rm freesurfing.ip.1
 fi
 
 
