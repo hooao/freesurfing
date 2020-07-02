@@ -9,14 +9,13 @@ sort -u $TMP_DIR/all_cn.txt | sed -r 's#(.+)#ip-cidr,\1, DIRECT#g' > freesurfing
 
 rm -rf $TMP_DIR
 
-diff = git diff freesurfing.ip.1 freesurfing.ip | wc -l
-if [ diff == 0 ]; then
-   echo "Nothing changed, clean up and exit."
-   rm freesurfing.ip.1
-   exit 0
+diffcount=`git diff freesurfing.ip.1 freesurfing.ip | wc -l`
+if [ $diffcount != 0 ]; then
+   echo "Something changed."
+   mv freesurfing.ip.1 freesurfing.ip
+   git add freesurfing.ip
+   git commit -m "update`date '+%Y%m%d%H%M'`"
+   git pull && git push
 fi
 
-mv freesurfing.ip.1 freesurfing.ip
-git add freesurfing.ip
-git commit -m "update"
-git pull && git push
+
