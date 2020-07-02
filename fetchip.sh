@@ -11,7 +11,8 @@ rm -rf $TMP_DIR
 
 diff = git diff freesurfing.ip.1 freesurfing.ip | wc -l
 if [ diff == 0 ]; then
-   echo "Nothing changed, exit."
+   echo "Nothing changed, clean up and exit."
+   rm freesurfing.ip.1
    exit 0
 fi
 
