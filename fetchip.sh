@@ -17,6 +17,7 @@ if [ $diffcount != 0 ]; then
    git commit -m "update`date '+%Y%m%d%H%M'`"
    git pull && git push
 else
+   echo "Nothing changed, exit."
    rm freesurfing.ip.1
 fi
 
