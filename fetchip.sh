@@ -6,7 +6,7 @@ wget -q --no-check-certificate -O $TMP_DIR/ip http://ftp.apnic.net/apnic/stats/a
 cat $TMP_DIR/ip | awk -F '|' '/CN/&&/ipv4/ {print $4 "/" 32-log($5)/log(2)}'|cat >$TMP_DIR/all_cn.txt
 
 sort -u $TMP_DIR/all_cn.txt | sed -r 's#(.+)#ip-cidr,\1, DIRECT#g' > freesurfing.ip.1
-
+cp $TMP_DIR/all_cn.txt ./
 rm -rf $TMP_DIR
 
 diffcount=`git diff freesurfing.ip.1 freesurfing.ip | wc -l`
