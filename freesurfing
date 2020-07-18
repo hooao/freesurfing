@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,1984bbs.org, PROXY
 DOMAIN-SUFFIX,1989report.hkja.org.hk, PROXY
 DOMAIN-SUFFIX,1991way.com, PROXY
 DOMAIN-SUFFIX,1998cdp.org, PROXY
-DOMAIN-SUFFIX,1-apple.com.tw, PROXY
 DOMAIN-SUFFIX,1bao.org, PROXY
 DOMAIN-SUFFIX,1dumb.com, PROXY
 DOMAIN-SUFFIX,1e100.net, PROXY
@@ -307,9 +306,6 @@ DOMAIN-SUFFIX,aplusvpn.com, PROXY
 DOMAIN-SUFFIX,app.box.com, PROXY
 DOMAIN-SUFFIX,appdownloader.net, PROXY
 DOMAIN-SUFFIX,app.heywire.com, PROXY
-DOMAIN-SUFFIX,appledaily.com, PROXY
-DOMAIN-SUFFIX,appledaily.com.hk, PROXY
-DOMAIN-SUFFIX,appledaily.com.tw, PROXY
 DOMAIN-SUFFIX,appshopper.com, PROXY
 DOMAIN-SUFFIX,app.smartmailcloud.com, PROXY
 DOMAIN-SUFFIX,appsocks.net, PROXY
@@ -822,7 +818,6 @@ DOMAIN-SUFFIX,cdef.org, PROXY
 DOMAIN-SUFFIX,cdig.info, PROXY
 DOMAIN-SUFFIX,cdjp.org, PROXY
 DOMAIN-SUFFIX,cdn1.lp.saboom.com, PROXY
-DOMAIN-SUFFIX,cdn-apple.com, PROXY
 DOMAIN-SUFFIX,cdn.assets.lfpcontent.com, PROXY
 DOMAIN-SUFFIX,cdnews.com.tw, PROXY
 DOMAIN-SUFFIX,cdn.helixstudios.net, PROXY
@@ -3715,7 +3710,6 @@ DOMAIN-SUFFIX,philborges.com, PROXY
 DOMAIN-SUFFIX,philly.com, PROXY
 DOMAIN-SUFFIX,phmsociety.org, PROXY
 DOMAIN-SUFFIX,phncdn.com, PROXY
-DOMAIN-SUFFIX,phobos.apple.com, PROXY
 DOMAIN-SUFFIX,phosphation13.rssing.com, PROXY
 DOMAIN-SUFFIX,photodharma.net, PROXY
 DOMAIN-SUFFIX,photofocus.com, PROXY
