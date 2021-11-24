@@ -15,8 +15,8 @@ for list in $LATESTIPLIST; do
 done
 echo "Updating CN and US"
 
-cat $TMP_DIR/ip.* | awk -F '|' '/CN/&&/ipv4/ {print $4 "/" 32-log($5)/log(2)}'|cat >$TMP_DIR/all_cn.txt
-cat $TMP_DIR/ip.* | awk -F '|' '/CN/&&/ipv4/ {print $4 "/" 32-log($5)/log(2)}'|cat >$TMP_DIR/all_us.txt
+cat $TMP_DIR/ip.* | awk -F '|' '/CN/&&/ipv4/ {print $4 "/" int(32-log($5)/log(2))}'|cat >$TMP_DIR/all_cn.txt
+cat $TMP_DIR/ip.* | awk -F '|' '/US/&&/ipv4/ {print $4 "/" int(32-log($5)/log(2))}'|cat >$TMP_DIR/all_us.txt
 sort -u $TMP_DIR/all_cn.txt | sed -r 's#(.+)#ip-cidr,\1, DIRECT#g' > freesurfing.ip
 sort -u $TMP_DIR/all_us.txt | sed -r 's#(.+)#ip-cidr,\1, PROXY#g' > freesurfing.us
 
