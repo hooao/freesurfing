@@ -52655,6 +52655,7 @@ ip-cidr,45.129.16.0/22, PROXY
 ip-cidr,45.129.208.0/22, PROXY
 ip-cidr,45.129.220.0/22, PROXY
 ip-cidr,45.130.120.0/22, PROXY
+ip-cidr,45.130.152.0/22, PROXY
 ip-cidr,45.130.32.0/22, PROXY
 ip-cidr,45.131.100.0/22, PROXY
 ip-cidr,45.131.176.0/22, PROXY
