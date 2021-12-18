@@ -1523,7 +1523,6 @@ DOMAIN-SUFFIX,elpais.com, PROXY
 DOMAIN-SUFFIX,eltondisney.com, PROXY
 DOMAIN-SUFFIX,emaga.com, PROXY
 DOMAIN-SUFFIX,emanna.com, PROXY
-DOMAIN-SUFFIX,embr.in, PROXY
 DOMAIN-SUFFIX,emilylau.org.hk, PROXY
 DOMAIN-SUFFIX,empfil.com, PROXY
 DOMAIN-SUFFIX,emule-ed2k.com, PROXY
@@ -4648,7 +4647,6 @@ DOMAIN-SUFFIX,stat.gov.tw, PROXY
 DOMAIN-SUFFIX,static-economist.com, PROXY
 DOMAIN-SUFFIX,static.comico.tw, PROXY
 DOMAIN-SUFFIX,static.shemalez.com, PROXY
-DOMAIN-SUFFIX,static.techspot.com, PROXY
 DOMAIN-SUFFIX,static01.nyt.com, PROXY
 DOMAIN-SUFFIX,staticflickr.com, PROXY
 DOMAIN-SUFFIX,statueofdemocracy.org, PROXY
@@ -4821,6 +4819,7 @@ DOMAIN-SUFFIX,teachparentstech.org, PROXY
 DOMAIN-SUFFIX,teamamericany.com, PROXY
 DOMAIN-SUFFIX,tech2.in.com, PROXY
 DOMAIN-SUFFIX,technews.tw, PROXY
+DOMAIN-SUFFIX,techspot.com, PROXY
 DOMAIN-SUFFIX,techviz.net, PROXY
 DOMAIN-SUFFIX,teck.in, PROXY
 DOMAIN-SUFFIX,teco-hk.org, PROXY
@@ -4997,6 +4996,7 @@ DOMAIN-SUFFIX,tibettimes.net, PROXY
 DOMAIN-SUFFIX,tibetwrites.org, PROXY
 DOMAIN-SUFFIX,ticket.com.tw, PROXY
 DOMAIN-SUFFIX,tigervpn.com, PROXY
+DOMAIN-SUFFIX,tiktok.com, PROXY
 DOMAIN-SUFFIX,tiltbrush.com, PROXY
 DOMAIN-SUFFIX,timdir.com, PROXY
 DOMAIN-SUFFIX,time.com, PROXY
@@ -5264,6 +5264,7 @@ DOMAIN-SUFFIX,twyac.org, PROXY
 DOMAIN-SUFFIX,txxx.com, PROXY
 DOMAIN-SUFFIX,tycool.com, PROXY
 DOMAIN-SUFFIX,typepad.com, PROXY
+DOMAIN-SUFFIX,typora.io, PROXY
 DOMAIN-SUFFIX,u15.info, PROXY
 DOMAIN-SUFFIX,u9un.com, PROXY
 DOMAIN-SUFFIX,ub0.cc, PROXY
