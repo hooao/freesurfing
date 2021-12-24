@@ -3631,7 +3631,7 @@ ip-cidr,138.8.0.0/16, PROXY
 ip-cidr,138.83.0.0/16, PROXY
 ip-cidr,138.84.0.0/19, PROXY
 ip-cidr,138.84.128.0/18, PROXY
-ip-cidr,138.84.192.0/19, PROXY
+ip-cidr,138.84.192.0/20, PROXY
 ip-cidr,138.84.224.0/19, PROXY
 ip-cidr,138.84.32.0/19, PROXY
 ip-cidr,138.84.64.0/18, PROXY
