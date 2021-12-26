@@ -38,7 +38,7 @@ fi
 diffcount=$(git diff freesurfing.ip freesurfing freesurfing.us freesurfing.surge | wc -l)
 if [ $diffcount != 0 ]; then
    echo "Something changed."
-     git add freesurfing.ip freesurfing freesurfing.us
+     git add freesurfing.ip freesurfing freesurfing.us freesurfing.surge
      git commit -m "update`date '+%Y%m%d%H%M'`"
    if [[ $1 != "--nopush" && $1 != "--debug" ]]; then
       git pull && git push
