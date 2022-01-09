@@ -726,6 +726,7 @@ DOMAIN-SUFFIX,bookepub.com, PROXY
 DOMAIN-SUFFIX,books.com.tw, PROXY
 DOMAIN-SUFFIX,booktopia.com.au, PROXY
 DOMAIN-SUFFIX,boomssr.com, PROXY
+DOMAIN-SUFFIX,borgenmagazine.com, PROXY
 DOMAIN-SUFFIX,bot.nu, PROXY
 DOMAIN-SUFFIX,botanwang.com, PROXY
 DOMAIN-SUFFIX,bowenpress.com, PROXY
@@ -880,7 +881,6 @@ DOMAIN-SUFFIX,cdcparty.com, PROXY
 DOMAIN-SUFFIX,cdef.org, PROXY
 DOMAIN-SUFFIX,cdig.info, PROXY
 DOMAIN-SUFFIX,cdjp.org, PROXY
-DOMAIN-SUFFIX,cdn-apple.com, PROXY
 DOMAIN-SUFFIX,cdn-images.mailchimp.com, PROXY
 DOMAIN-SUFFIX,cdn.assets.lfpcontent.com, PROXY
 DOMAIN-SUFFIX,cdn.helixstudios.net, PROXY
@@ -2347,6 +2347,7 @@ DOMAIN-SUFFIX,grandtrial.org, PROXY
 DOMAIN-SUFFIX,grangorz.org, PROXY
 DOMAIN-SUFFIX,graphis.ne.jp, PROXY
 DOMAIN-SUFFIX,graphql.org, PROXY
+DOMAIN-SUFFIX,gravatar.com, PROXY
 DOMAIN-SUFFIX,greasespot.net, PROXY
 DOMAIN-SUFFIX,great-firewall.com, PROXY
 DOMAIN-SUFFIX,great-roc.org, PROXY
@@ -3140,6 +3141,7 @@ DOMAIN-SUFFIX,linux.org.hk, PROXY
 DOMAIN-SUFFIX,linuxtoy.org, PROXY
 DOMAIN-SUFFIX,lionsroar.com, PROXY
 DOMAIN-SUFFIX,lipuman.com, PROXY
+DOMAIN-SUFFIX,liquiditytp.com, PROXY
 DOMAIN-SUFFIX,liquidvpn.com, PROXY
 DOMAIN-SUFFIX,listennotes.com, PROXY
 DOMAIN-SUFFIX,listentoyoutube.com, PROXY
@@ -3617,6 +3619,7 @@ DOMAIN-SUFFIX,newspeak.cc, PROXY
 DOMAIN-SUFFIX,newstamago.com, PROXY
 DOMAIN-SUFFIX,newstapa.org, PROXY
 DOMAIN-SUFFIX,newstarnet.com, PROXY
+DOMAIN-SUFFIX,newstatesman.com, PROXY
 DOMAIN-SUFFIX,newsweek.com, PROXY
 DOMAIN-SUFFIX,newtaiwan.com.tw, PROXY
 DOMAIN-SUFFIX,newtalk.tw, PROXY
@@ -3782,6 +3785,7 @@ DOMAIN-SUFFIX,okk.tw, PROXY
 DOMAIN-SUFFIX,old-cat.net, PROXY
 DOMAIN-SUFFIX,old.honeynet.org, PROXY
 DOMAIN-SUFFIX,old.nabble.com, PROXY
+DOMAIN-SUFFIX,olevod.com, PROXY
 DOMAIN-SUFFIX,olumpo.com, PROXY
 DOMAIN-SUFFIX,olympicwatch.org, PROXY
 DOMAIN-SUFFIX,omgili.com, PROXY
@@ -4015,6 +4019,7 @@ DOMAIN-SUFFIX,politiscales.net, PROXY
 DOMAIN-SUFFIX,poloniex.com, PROXY
 DOMAIN-SUFFIX,polymer-project.org, PROXY
 DOMAIN-SUFFIX,polymerhk.com, PROXY
+DOMAIN-SUFFIX,poolin.com, PROXY
 DOMAIN-SUFFIX,popo.tw, PROXY
 DOMAIN-SUFFIX,popvote.hk, PROXY
 DOMAIN-SUFFIX,popxi.click, PROXY
@@ -4236,6 +4241,7 @@ DOMAIN-SUFFIX,registry.google, PROXY
 DOMAIN-SUFFIX,relaxbbs.com, PROXY
 DOMAIN-SUFFIX,relay.com.tw, PROXY
 DOMAIN-SUFFIX,releaseinternational.org, PROXY
+DOMAIN-SUFFIX,religionnews.com, PROXY
 DOMAIN-SUFFIX,religioustolerance.org, PROXY
 DOMAIN-SUFFIX,renminbao.com, PROXY
 DOMAIN-SUFFIX,renyurenquan.org, PROXY
