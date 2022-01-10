@@ -3239,6 +3239,7 @@ DOMAIN-SUFFIX,makzhou.warehouse333.com, PROXY
 DOMAIN-SUFFIX,malaysiakini.com, PROXY
 DOMAIN-SUFFIX,mamingzhe.com, PROXY
 DOMAIN-SUFFIX,manchukuo.net, PROXY
+DOMAIN-SUFFIX,mandiant.com, PROXY
 DOMAIN-SUFFIX,mangafox.com, PROXY
 DOMAIN-SUFFIX,mangafox.me, PROXY
 DOMAIN-SUFFIX,maniash.com, PROXY
@@ -3788,6 +3789,7 @@ DOMAIN-SUFFIX,old.nabble.com, PROXY
 DOMAIN-SUFFIX,olevod.com, PROXY
 DOMAIN-SUFFIX,olumpo.com, PROXY
 DOMAIN-SUFFIX,olympicwatch.org, PROXY
+DOMAIN-SUFFIX,omct.org, PROXY
 DOMAIN-SUFFIX,omgili.com, PROXY
 DOMAIN-SUFFIX,omni7.jp, PROXY
 DOMAIN-SUFFIX,omnitalk.com, PROXY
@@ -4327,6 +4329,7 @@ DOMAIN-SUFFIX,sacom.hk, PROXY
 DOMAIN-SUFFIX,sadistic-v.com, PROXY
 DOMAIN-SUFFIX,sadpanda.us, PROXY
 DOMAIN-SUFFIX,safechat.com, PROXY
+DOMAIN-SUFFIX,safeguarddefenders.com, PROXY
 DOMAIN-SUFFIX,safervpn.com, PROXY
 DOMAIN-SUFFIX,safety.google, PROXY
 DOMAIN-SUFFIX,saintyculture.com, PROXY
@@ -4767,6 +4770,7 @@ DOMAIN-SUFFIX,tagwalk.com, PROXY
 DOMAIN-SUFFIX,tahr.org.tw, PROXY
 DOMAIN-SUFFIX,taipei.gov.tw, PROXY
 DOMAIN-SUFFIX,taipeisociety.org, PROXY
+DOMAIN-SUFFIX,taipeitimes.com, PROXY
 DOMAIN-SUFFIX,taiwan-sex.com, PROXY
 DOMAIN-SUFFIX,taiwanbible.com, PROXY
 DOMAIN-SUFFIX,taiwancon.com, PROXY
@@ -5367,7 +5371,6 @@ DOMAIN-SUFFIX,usno.navy.mil, PROXY
 DOMAIN-SUFFIX,usocctn.com, PROXY
 DOMAIN-SUFFIX,ustibetcommittee.org, PROXY
 DOMAIN-SUFFIX,ustream.tv, PROXY
-DOMAIN-SUFFIX,usunitednews.com, PROXY
 DOMAIN-SUFFIX,usus.cc, PROXY
 DOMAIN-SUFFIX,utopianpal.com, PROXY
 DOMAIN-SUFFIX,uu-gg.com, PROXY
@@ -5380,12 +5383,12 @@ DOMAIN-SUFFIX,uyghur.co.uk, PROXY
 DOMAIN-SUFFIX,uyghuraa.org, PROXY
 DOMAIN-SUFFIX,uyghuramerican.org, PROXY
 DOMAIN-SUFFIX,uyghurbiz.org, PROXY
-DOMAIN-SUFFIX,uyghurcanadiansociety.org, PROXY
+DOMAIN-SUFFIX,uyghurcanadian.ca, PROXY
 DOMAIN-SUFFIX,uyghurcongress.org, PROXY
-DOMAIN-SUFFIX,uyghurensemble.co.uk, PROXY
 DOMAIN-SUFFIX,uyghurpen.org, PROXY
 DOMAIN-SUFFIX,uyghurpress.com, PROXY
 DOMAIN-SUFFIX,uyghurstudies.org, PROXY
+DOMAIN-SUFFIX,uyghurtribunal.com, PROXY
 DOMAIN-SUFFIX,uygur.fc2web.com, PROXY
 DOMAIN-SUFFIX,uygur.org, PROXY
 DOMAIN-SUFFIX,uymaarip.com, PROXY
@@ -5845,6 +5848,7 @@ DOMAIN-SUFFIX,xm.com, PROXY
 DOMAIN-SUFFIX,xml-training-guide.com, PROXY
 DOMAIN-SUFFIX,xmovies.com, PROXY
 DOMAIN-SUFFIX,xn--4gq171p.com, PROXY
+DOMAIN-SUFFIX,xn--9pr62r24a.com, PROXY
 DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org, PROXY
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com, PROXY
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com, PROXY
