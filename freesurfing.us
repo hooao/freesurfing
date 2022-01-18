@@ -52899,7 +52899,10 @@ ip-cidr,40.74.0.0/15, PROXY
 ip-cidr,40.76.0.0/14, PROXY
 ip-cidr,40.80.0.0/12, PROXY
 ip-cidr,40.96.0.0/12, PROXY
-ip-cidr,43.192.0.0/12, PROXY
+ip-cidr,43.192.0.0/15, PROXY
+ip-cidr,43.194.0.0/16, PROXY
+ip-cidr,43.198.0.0/15, PROXY
+ip-cidr,43.200.0.0/13, PROXY
 ip-cidr,43.208.0.0/13, PROXY
 ip-cidr,43.216.0.0/14, PROXY
 ip-cidr,43.220.0.0/15, PROXY
