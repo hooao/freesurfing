@@ -150,6 +150,7 @@ ip-cidr,103.50.92.0/22, PROXY
 ip-cidr,103.54.143.0/24, PROXY
 ip-cidr,103.6.84.0/22, PROXY
 ip-cidr,103.60.12.0/22, PROXY
+ip-cidr,103.62.40.0/22, PROXY
 ip-cidr,103.65.228.0/22, PROXY
 ip-cidr,103.66.28.0/22, PROXY
 ip-cidr,103.67.200.0/22, PROXY
