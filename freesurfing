@@ -1259,13 +1259,12 @@ DOMAIN-SUFFIX,dalianmeng.org, PROXY
 DOMAIN-SUFFIX,daliulian.org, PROXY
 DOMAIN-SUFFIX,danbooru.donmai.us, PROXY
 DOMAIN-SUFFIX,danke4china.net, PROXY
-DOMAIN-SUFFIX,danwei.org, PROXY
 DOMAIN-SUFFIX,daodu14.jigsy.com, PROXY
 DOMAIN-SUFFIX,daolan.net, PROXY
-DOMAIN-SUFFIX,daozhongxing.org, PROXY
 DOMAIN-SUFFIX,darktech.org, PROXY
 DOMAIN-SUFFIX,darktoy.net, PROXY
 DOMAIN-SUFFIX,darpa.mil, PROXY
+DOMAIN-SUFFIX,darrenliuwei.com, PROXY
 DOMAIN-SUFFIX,dastrassi.org, PROXY
 DOMAIN-SUFFIX,data-vocabulary.org, PROXY
 DOMAIN-SUFFIX,data.flurry.com, PROXY
@@ -3533,6 +3532,7 @@ DOMAIN-SUFFIX,mywww.biz, PROXY
 DOMAIN-SUFFIX,myz.info, PROXY
 DOMAIN-SUFFIX,naacoalition.org, PROXY
 DOMAIN-SUFFIX,naitik.net, PROXY
+DOMAIN-SUFFIX,nakedsecurity.sophos.com, PROXY
 DOMAIN-SUFFIX,nakido.com, PROXY
 DOMAIN-SUFFIX,nakuz.com, PROXY
 DOMAIN-SUFFIX,nalandabodhi.org, PROXY
