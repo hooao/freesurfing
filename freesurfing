@@ -804,6 +804,7 @@ DOMAIN-SUFFIX,bx.tl, PROXY
 DOMAIN-SUFFIX,bybit.com, PROXY
 DOMAIN-SUFFIX,bynet.co.il, PROXY
 DOMAIN-SUFFIX,bypasscensorship.org, PROXY
+DOMAIN-SUFFIX,byrut.org, PROXY
 DOMAIN-SUFFIX,c-est-simple.com, PROXY
 DOMAIN-SUFFIX,c-span.org, PROXY
 DOMAIN-SUFFIX,c-spanvideo.org, PROXY
@@ -2568,6 +2569,7 @@ DOMAIN-SUFFIX,hkusu.net, PROXY
 DOMAIN-SUFFIX,hkvwet.com, PROXY
 DOMAIN-SUFFIX,hkwcc.org.hk, PROXY
 DOMAIN-SUFFIX,hkzone.org, PROXY
+DOMAIN-SUFFIX,hmoegirl.com, PROXY
 DOMAIN-SUFFIX,hmonghot.com, PROXY
 DOMAIN-SUFFIX,hmv.co.jp, PROXY
 DOMAIN-SUFFIX,hmvdigital.ca, PROXY
@@ -2863,6 +2865,7 @@ DOMAIN-SUFFIX,ivpn.net, PROXY
 DOMAIN-SUFFIX,ixquick.com, PROXY
 DOMAIN-SUFFIX,ixxx.com, PROXY
 DOMAIN-SUFFIX,iyouport.com, PROXY
+DOMAIN-SUFFIX,iyouport.org, PROXY
 DOMAIN-SUFFIX,izaobao.us, PROXY
 DOMAIN-SUFFIX,izles.net, PROXY
 DOMAIN-SUFFIX,izlesem.org, PROXY
@@ -3878,6 +3881,7 @@ DOMAIN-SUFFIX,pacopacomama.com, PROXY
 DOMAIN-SUFFIX,padmanet.com, PROXY
 DOMAIN-SUFFIX,page.bid.yahoo.com, PROXY
 DOMAIN-SUFFIX,page2rss.com, PROXY
+DOMAIN-SUFFIX,pages.dev, PROXY
 DOMAIN-SUFFIX,pagodabox.com, PROXY
 DOMAIN-SUFFIX,palacemoon.com, PROXY
 DOMAIN-SUFFIX,paldengyal.com, PROXY
@@ -4316,6 +4320,7 @@ DOMAIN-SUFFIX,runbtx.com, PROXY
 DOMAIN-SUFFIX,rushbee.com, PROXY
 DOMAIN-SUFFIX,rusvpn.com, PROXY
 DOMAIN-SUFFIX,ruten.com.tw, PROXY
+DOMAIN-SUFFIX,rutracker.net, PROXY
 DOMAIN-SUFFIX,rutube.ru, PROXY
 DOMAIN-SUFFIX,ruyiseek.com, PROXY
 DOMAIN-SUFFIX,rxhj.net, PROXY
