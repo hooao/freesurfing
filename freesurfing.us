@@ -56963,7 +56963,8 @@ ip-cidr,66.220.176.0/20, PROXY
 ip-cidr,66.220.208.0/20, PROXY
 ip-cidr,66.220.224.0/19, PROXY
 ip-cidr,66.220.32.0/22, PROXY
-ip-cidr,66.220.36.0/23, PROXY
+ip-cidr,66.220.36.0/24, PROXY
+ip-cidr,66.220.37.0/24, PROXY
 ip-cidr,66.220.38.0/24, PROXY
 ip-cidr,66.220.39.0/24, PROXY
 ip-cidr,66.220.40.0/23, PROXY
