@@ -3819,6 +3819,7 @@ DOMAIN-SUFFIX,onedrive.live.com, PROXY
 DOMAIN-SUFFIX,onedumb.com, PROXY
 DOMAIN-SUFFIX,onejav.com, PROXY
 DOMAIN-SUFFIX,onion.city, PROXY
+DOMAIN-SUFFIX,onion.ly, PROXY
 DOMAIN-SUFFIX,online.recoveryversion.org, PROXY
 DOMAIN-SUFFIX,onlinecha.com, PROXY
 DOMAIN-SUFFIX,onlineyoutube.com, PROXY
@@ -5737,6 +5738,7 @@ DOMAIN-SUFFIX,wordpress.com, PROXY
 DOMAIN-SUFFIX,workatruna.com, PROXY
 DOMAIN-SUFFIX,workerdemo.org.hk, PROXY
 DOMAIN-SUFFIX,workerempowerment.org, PROXY
+DOMAIN-SUFFIX,workers.dev, PROXY
 DOMAIN-SUFFIX,workersthebig.net, PROXY
 DOMAIN-SUFFIX,worldcat.org, PROXY
 DOMAIN-SUFFIX,worldjournal.com, PROXY
