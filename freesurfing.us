@@ -53422,7 +53422,6 @@ ip-cidr,40.143.96.0/19, PROXY
 ip-cidr,40.144.0.0/12, PROXY
 ip-cidr,40.160.0.0/16, PROXY
 ip-cidr,40.161.0.0/16, PROXY
-ip-cidr,40.162.0.0/16, PROXY
 ip-cidr,40.163.0.0/16, PROXY
 ip-cidr,40.164.0.0/15, PROXY
 ip-cidr,40.166.0.0/16, PROXY
