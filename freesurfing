@@ -5606,6 +5606,7 @@ DOMAIN-SUFFIX,waveprotocol.org, PROXY
 DOMAIN-SUFFIX,waymo.com, PROXY
 DOMAIN-SUFFIX,wda.gov.tw, PROXY
 DOMAIN-SUFFIX,wdf5.com, PROXY
+DOMAIN-SUFFIX,wealth.com.tw, PROXY
 DOMAIN-SUFFIX,wearehairy.com, PROXY
 DOMAIN-SUFFIX,wearn.com, PROXY
 DOMAIN-SUFFIX,web.dev, PROXY
@@ -5858,6 +5859,7 @@ DOMAIN-SUFFIX,xihua.es, PROXY
 DOMAIN-SUFFIX,xijie.wordpress.com, PROXY
 DOMAIN-SUFFIX,xing.com, PROXY
 DOMAIN-SUFFIX,xinhuanet.org, PROXY
+DOMAIN-SUFFIX,xinjiangpolicefiles.org, PROXY
 DOMAIN-SUFFIX,xinmiao.com.hk, PROXY
 DOMAIN-SUFFIX,xinqimeng.over-blog.com, PROXY
 DOMAIN-SUFFIX,xinsheng.net, PROXY
