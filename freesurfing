@@ -749,6 +749,7 @@ DOMAIN-SUFFIX,braumeister.org, PROXY
 DOMAIN-SUFFIX,brave.com, PROXY
 DOMAIN-SUFFIX,bravotube.net, PROXY
 DOMAIN-SUFFIX,brazzers.com, PROXY
+DOMAIN-SUFFIX,breached.to, PROXY
 DOMAIN-SUFFIX,break.com, PROXY
 DOMAIN-SUFFIX,breakgfw.com, PROXY
 DOMAIN-SUFFIX,breaking911.com, PROXY
@@ -786,6 +787,7 @@ DOMAIN-SUFFIX,bullogger.com, PROXY
 DOMAIN-SUFFIX,bunbunhk.com, PROXY
 DOMAIN-SUFFIX,busayari.com, PROXY
 DOMAIN-SUFFIX,business-humanrights.org, PROXY
+DOMAIN-SUFFIX,business.page, PROXY
 DOMAIN-SUFFIX,businessinsider.com, PROXY
 DOMAIN-SUFFIX,businesstoday.com.tw, PROXY
 DOMAIN-SUFFIX,businessweek.com, PROXY
@@ -4265,6 +4267,7 @@ DOMAIN-SUFFIX,reflectivecode.com, PROXY
 DOMAIN-SUFFIX,registry.google, PROXY
 DOMAIN-SUFFIX,relaxbbs.com, PROXY
 DOMAIN-SUFFIX,relay.com.tw, PROXY
+DOMAIN-SUFFIX,relay.firefox.com, PROXY
 DOMAIN-SUFFIX,releaseinternational.org, PROXY
 DOMAIN-SUFFIX,religionnews.com, PROXY
 DOMAIN-SUFFIX,religioustolerance.org, PROXY
@@ -4420,6 +4423,7 @@ DOMAIN-SUFFIX,sejie.com, PROXY
 DOMAIN-SUFFIX,sellclassics.com, PROXY
 DOMAIN-SUFFIX,sendsmtp.com, PROXY
 DOMAIN-SUFFIX,sendspace.com, PROXY
+DOMAIN-SUFFIX,sensortower.com, PROXY
 DOMAIN-SUFFIX,servehttp.com, PROXY
 DOMAIN-SUFFIX,serveuser.com, PROXY
 DOMAIN-SUFFIX,serveusers.com, PROXY
@@ -5747,6 +5751,7 @@ DOMAIN-SUFFIX,worldvpn.net, PROXY
 DOMAIN-SUFFIX,wow-life.net, PROXY
 DOMAIN-SUFFIX,wow.com, PROXY
 DOMAIN-SUFFIX,wowgirls.com, PROXY
+DOMAIN-SUFFIX,wowhead.com, PROXY
 DOMAIN-SUFFIX,wowlegacy.ml, PROXY
 DOMAIN-SUFFIX,wowporn.com, PROXY
 DOMAIN-SUFFIX,wowrk.com, PROXY
