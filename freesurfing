@@ -285,7 +285,6 @@ DOMAIN-SUFFIX,aniscartujo.com, PROXY
 DOMAIN-SUFFIX,annatam.com, PROXY
 DOMAIN-SUFFIX,anobii.com, PROXY
 DOMAIN-SUFFIX,anontext.com, PROXY
-DOMAIN-SUFFIX,anonymise.us, PROXY
 DOMAIN-SUFFIX,anonymitynetwork.com, PROXY
 DOMAIN-SUFFIX,anonymizer.com, PROXY
 DOMAIN-SUFFIX,anonymouse.org, PROXY
@@ -1956,6 +1955,7 @@ DOMAIN-SUFFIX,gamer2-cds.cdn.hinet.net, PROXY
 DOMAIN-SUFFIX,gamez.com.tw, PROXY
 DOMAIN-SUFFIX,gamousa.com, PROXY
 DOMAIN-SUFFIX,ganges.com, PROXY
+DOMAIN-SUFFIX,ganjingworld.com, PROXY
 DOMAIN-SUFFIX,gaoming.net, PROXY
 DOMAIN-SUFFIX,gaopi.net, PROXY
 DOMAIN-SUFFIX,gaozhisheng.net, PROXY
@@ -4106,6 +4106,7 @@ DOMAIN-SUFFIX,privoxy.org, PROXY
 DOMAIN-SUFFIX,procopytips.com, PROXY
 DOMAIN-SUFFIX,project-syndicate.org, PROXY
 DOMAIN-SUFFIX,prosiben.de, PROXY
+DOMAIN-SUFFIX,proton.me, PROXY
 DOMAIN-SUFFIX,protonvpn.com, PROXY
 DOMAIN-SUFFIX,provideocoalition.com, PROXY
 DOMAIN-SUFFIX,provpnaccounts.com, PROXY
