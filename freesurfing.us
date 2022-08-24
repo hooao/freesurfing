@@ -55034,6 +55034,7 @@ ip-cidr,64.110.16.0/21, PROXY
 ip-cidr,64.110.160.0/19, PROXY
 ip-cidr,64.110.24.0/22, PROXY
 ip-cidr,64.110.48.0/23, PROXY
+ip-cidr,64.110.50.0/24, PROXY
 ip-cidr,64.110.51.0/24, PROXY
 ip-cidr,64.110.52.0/22, PROXY
 ip-cidr,64.110.56.0/21, PROXY
