@@ -587,6 +587,7 @@ DOMAIN-SUFFIX,blewpass.com, PROXY
 DOMAIN-SUFFIX,blinkx.com, PROXY
 DOMAIN-SUFFIX,blinw.com, PROXY
 DOMAIN-SUFFIX,blip.tv, PROXY
+DOMAIN-SUFFIX,blockcast.it, PROXY
 DOMAIN-SUFFIX,blockcn.com, PROXY
 DOMAIN-SUFFIX,blockedbyhk.com, PROXY
 DOMAIN-SUFFIX,blockless.com, PROXY
@@ -1179,6 +1180,7 @@ DOMAIN-SUFFIX,crocotube.com, PROXY
 DOMAIN-SUFFIX,crossfire.co.kr, PROXY
 DOMAIN-SUFFIX,crossthewall.net, PROXY
 DOMAIN-SUFFIX,crossvpn.net, PROXY
+DOMAIN-SUFFIX,croxyproxy.com, PROXY
 DOMAIN-SUFFIX,crrev.com, PROXY
 DOMAIN-SUFFIX,crucial.com, PROXY
 DOMAIN-SUFFIX,crunchyroll.com, PROXY
@@ -3129,7 +3131,7 @@ DOMAIN-SUFFIX,liaowangxizang.net, PROXY
 DOMAIN-SUFFIX,liberal.org.hk, PROXY
 DOMAIN-SUFFIX,libertytimes.com.tw, PROXY
 DOMAIN-SUFFIX,library.usc.cuhk.edu.hk, PROXY
-DOMAIN-SUFFIX,lidecheng.com, PROXY
+DOMAIN-SUFFIX,libredd.it, PROXY
 DOMAIN-SUFFIX,lifemiles.com, PROXY
 DOMAIN-SUFFIX,lighten.org.tw, PROXY
 DOMAIN-SUFFIX,lighti.me, PROXY
@@ -4735,6 +4737,7 @@ DOMAIN-SUFFIX,studentsforafreetibet.org, PROXY
 DOMAIN-SUFFIX,stumbleupon.com, PROXY
 DOMAIN-SUFFIX,stupidvideos.com, PROXY
 DOMAIN-SUFFIX,subacme.rerouted.org, PROXY
+DOMAIN-SUFFIX,substack.com, PROXY
 DOMAIN-SUFFIX,successfn.com, PROXY
 DOMAIN-SUFFIX,suche.gmx.net, PROXY
 DOMAIN-SUFFIX,sugarsync.com, PROXY
@@ -5491,6 +5494,7 @@ DOMAIN-SUFFIX,vital247.org, PROXY
 DOMAIN-SUFFIX,viu.com, PROXY
 DOMAIN-SUFFIX,viu.tv, PROXY
 DOMAIN-SUFFIX,vivahentai4u.net, PROXY
+DOMAIN-SUFFIX,vivaldi.com, PROXY
 DOMAIN-SUFFIX,vivatube.com, PROXY
 DOMAIN-SUFFIX,vivthomas.com, PROXY
 DOMAIN-SUFFIX,vizvaz.com, PROXY
