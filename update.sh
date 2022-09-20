@@ -18,6 +18,10 @@ for list in $LATESTIPLIST; do
    fi
    let LISTCOUNT++
 done
+echo "Updating China domain"
+wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
+awk -F/ '{ printf "DOMAIN-SUFFIX,%s, DIRECT\n",$2}' accelerated-domains.china.conf > freesurfing.chn.domain
+
 echo "Updating CN and US"
 
 cat $TMP_DIR/ip.* | awk -F '|' '/CN/&&/ipv4/ {print $4 "/" int(32-log($5)/log(2))}' | cat >$TMP_DIR/all_cn.txt
