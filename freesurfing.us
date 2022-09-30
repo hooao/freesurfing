@@ -53704,7 +53704,13 @@ ip-cidr,40.182.0.0/16, PROXY
 ip-cidr,40.183.0.0/16, PROXY
 ip-cidr,40.184.0.0/13, PROXY
 ip-cidr,40.192.0.0/11, PROXY
-ip-cidr,40.224.0.0/12, PROXY
+ip-cidr,40.224.0.0/13, PROXY
+ip-cidr,40.232.0.0/15, PROXY
+ip-cidr,40.234.0.0/16, PROXY
+ip-cidr,40.235.0.0/16, PROXY
+ip-cidr,40.236.0.0/15, PROXY
+ip-cidr,40.238.0.0/16, PROXY
+ip-cidr,40.239.0.0/16, PROXY
 ip-cidr,40.240.0.0/16, PROXY
 ip-cidr,40.241.0.0/16, PROXY
 ip-cidr,40.242.0.0/16, PROXY
