@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,about.google, PROXY
 DOMAIN-SUFFIX,aboutgfw.com, PROXY
 DOMAIN-SUFFIX,abs.edu, PROXY
 DOMAIN-SUFFIX,ac.jiruan.net, PROXY
+DOMAIN-SUFFIX,acast.com, PROXY
 DOMAIN-SUFFIX,accim.org, PROXY
 DOMAIN-SUFFIX,accountkit.com, PROXY
 DOMAIN-SUFFIX,aceros-de-hispania.com, PROXY
@@ -709,6 +710,7 @@ DOMAIN-SUFFIX,blubrry.com, PROXY
 DOMAIN-SUFFIX,blueangellive.com, PROXY
 DOMAIN-SUFFIX,bmfinn.com, PROXY
 DOMAIN-SUFFIX,bnews.co, PROXY
+DOMAIN-SUFFIX,bnext.com.tw, PROXY
 DOMAIN-SUFFIX,bnn.co, PROXY
 DOMAIN-SUFFIX,bnrmetal.com, PROXY
 DOMAIN-SUFFIX,boardreader.com, PROXY
@@ -1773,6 +1775,7 @@ DOMAIN-SUFFIX,fireofliberty.org, PROXY
 DOMAIN-SUFFIX,firetweet.io, PROXY
 DOMAIN-SUFFIX,firstfivefollowers.com, PROXY
 DOMAIN-SUFFIX,firstpost.com, PROXY
+DOMAIN-SUFFIX,firstrade.com, PROXY
 DOMAIN-SUFFIX,flagsonline.it, PROXY
 DOMAIN-SUFFIX,flecheinthepeche.fr, PROXY
 DOMAIN-SUFFIX,fleshbot.com, PROXY
