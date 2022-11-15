@@ -774,6 +774,7 @@ DOMAIN-SUFFIX,btbtav.com, PROXY
 DOMAIN-SUFFIX,btc98.com, PROXY
 DOMAIN-SUFFIX,btcbank.bank, PROXY
 DOMAIN-SUFFIX,btctrade.im, PROXY
+DOMAIN-SUFFIX,btdig.com, PROXY
 DOMAIN-SUFFIX,btdigg.org, PROXY
 DOMAIN-SUFFIX,btku.me, PROXY
 DOMAIN-SUFFIX,btku.org, PROXY
@@ -781,7 +782,6 @@ DOMAIN-SUFFIX,btspread.com, PROXY
 DOMAIN-SUFFIX,btsynckeys.com, PROXY
 DOMAIN-SUFFIX,budaedu.org, PROXY
 DOMAIN-SUFFIX,buddhanet.com.tw, PROXY
-DOMAIN-SUFFIX,buddhistchannel.tv, PROXY
 DOMAIN-SUFFIX,buffered.com, PROXY
 DOMAIN-SUFFIX,bullguard.com, PROXY
 DOMAIN-SUFFIX,bullog.org, PROXY
@@ -3856,6 +3856,7 @@ DOMAIN-SUFFIX,openid.net, PROXY
 DOMAIN-SUFFIX,openleaks.org, PROXY
 DOMAIN-SUFFIX,opensea.io, PROXY
 DOMAIN-SUFFIX,opensource.google, PROXY
+DOMAIN-SUFFIX,openstreetmap.org, PROXY
 DOMAIN-SUFFIX,opentech.fund, PROXY
 DOMAIN-SUFFIX,openvpn.net, PROXY
 DOMAIN-SUFFIX,openvpn.org, PROXY
