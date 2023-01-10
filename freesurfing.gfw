@@ -149,6 +149,7 @@ DOMAIN-SUFFIX,abitno.linpie.com, PROXY
 DOMAIN-SUFFIX,ablwang.com, PROXY
 DOMAIN-SUFFIX,aboluowang.com, PROXY
 DOMAIN-SUFFIX,about.google, PROXY
+DOMAIN-SUFFIX,about.me, PROXY
 DOMAIN-SUFFIX,aboutgfw.com, PROXY
 DOMAIN-SUFFIX,abs.edu, PROXY
 DOMAIN-SUFFIX,ac.jiruan.net, PROXY
@@ -464,7 +465,6 @@ DOMAIN-SUFFIX,barton.de, PROXY
 DOMAIN-SUFFIX,bastillepost.com, PROXY
 DOMAIN-SUFFIX,bayvoice.net, PROXY
 DOMAIN-SUFFIX,bb-chat.tv, PROXY
-DOMAIN-SUFFIX,bb.ttv.com.tw, PROXY
 DOMAIN-SUFFIX,bbc.co.uk, PROXY
 DOMAIN-SUFFIX,bbc.com, PROXY
 DOMAIN-SUFFIX,bbc.in, PROXY
@@ -787,6 +787,7 @@ DOMAIN-SUFFIX,buffered.com, PROXY
 DOMAIN-SUFFIX,bullguard.com, PROXY
 DOMAIN-SUFFIX,bullog.org, PROXY
 DOMAIN-SUFFIX,bullogger.com, PROXY
+DOMAIN-SUFFIX,bumingbai.net, PROXY
 DOMAIN-SUFFIX,bunbunhk.com, PROXY
 DOMAIN-SUFFIX,busayari.com, PROXY
 DOMAIN-SUFFIX,business-humanrights.org, PROXY
@@ -969,6 +970,7 @@ DOMAIN-SUFFIX,chinadialogue.net, PROXY
 DOMAIN-SUFFIX,chinadigitaltimes.net, PROXY
 DOMAIN-SUFFIX,chinaelections.org, PROXY
 DOMAIN-SUFFIX,chinaeweekly.com, PROXY
+DOMAIN-SUFFIX,chinafile.com, PROXY
 DOMAIN-SUFFIX,chinafreepress.org, PROXY
 DOMAIN-SUFFIX,chinagate.com, PROXY
 DOMAIN-SUFFIX,chinageeks.org, PROXY
@@ -1403,6 +1405,7 @@ DOMAIN-SUFFIX,dotsub.com, PROXY
 DOMAIN-SUFFIX,dotvpn.com, PROXY
 DOMAIN-SUFFIX,doub.io, PROXY
 DOMAIN-SUFFIX,doubibackup.com, PROXY
+DOMAIN-SUFFIX,doublethinklab.org, PROXY
 DOMAIN-SUFFIX,doubmirror.cf, PROXY
 DOMAIN-SUFFIX,dougscripts.com, PROXY
 DOMAIN-SUFFIX,douhokanko.net, PROXY
@@ -2486,6 +2489,7 @@ DOMAIN-SUFFIX,hgseav.com, PROXY
 DOMAIN-SUFFIX,hhdcb3office.org, PROXY
 DOMAIN-SUFFIX,hhthesakyatrizin.org, PROXY
 DOMAIN-SUFFIX,hi-on.org.tw, PROXY
+DOMAIN-SUFFIX,hiccears.com, PROXY
 DOMAIN-SUFFIX,hidden-advent.org, PROXY
 DOMAIN-SUFFIX,hide.me, PROXY
 DOMAIN-SUFFIX,hidecloud.com, PROXY
@@ -2587,6 +2591,7 @@ DOMAIN-SUFFIX,hmvdigital.ca, PROXY
 DOMAIN-SUFFIX,hmvdigital.com, PROXY
 DOMAIN-SUFFIX,hnjhj.com, PROXY
 DOMAIN-SUFFIX,hnntube.com, PROXY
+DOMAIN-SUFFIX,hojemacau.com.mo, PROXY
 DOMAIN-SUFFIX,hola.com, PROXY
 DOMAIN-SUFFIX,hola.org, PROXY
 DOMAIN-SUFFIX,holymountaincn.com, PROXY
@@ -2612,6 +2617,7 @@ DOMAIN-SUFFIX,horrorporn.com, PROXY
 DOMAIN-SUFFIX,hostloc.com, PROXY
 DOMAIN-SUFFIX,hotair.com, PROXY
 DOMAIN-SUFFIX,hotav.tv, PROXY
+DOMAIN-SUFFIX,hotcoin.com, PROXY
 DOMAIN-SUFFIX,hotels.cn, PROXY
 DOMAIN-SUFFIX,hotfrog.com.tw, PROXY
 DOMAIN-SUFFIX,hotgoo.com, PROXY
@@ -2670,6 +2676,7 @@ DOMAIN-SUFFIX,huiyi.in, PROXY
 DOMAIN-SUFFIX,hulkshare.com, PROXY
 DOMAIN-SUFFIX,hulu.com, PROXY
 DOMAIN-SUFFIX,huluim.com, PROXY
+DOMAIN-SUFFIX,humanrightspressawards.org, PROXY
 DOMAIN-SUFFIX,hung-ya.com, PROXY
 DOMAIN-SUFFIX,hungerstrikeforaids.org, PROXY
 DOMAIN-SUFFIX,huobi.co, PROXY
@@ -3058,6 +3065,7 @@ DOMAIN-SUFFIX,koornk.com, PROXY
 DOMAIN-SUFFIX,koranmandarin.com, PROXY
 DOMAIN-SUFFIX,korenan2.com, PROXY
 DOMAIN-SUFFIX,kqes.net, PROXY
+DOMAIN-SUFFIX,kraken.com, PROXY
 DOMAIN-SUFFIX,ksdl.org, PROXY
 DOMAIN-SUFFIX,ksnews.com.tw, PROXY
 DOMAIN-SUFFIX,kspcoin.com, PROXY
@@ -3447,6 +3455,7 @@ DOMAIN-SUFFIX,mondex.org, PROXY
 DOMAIN-SUFFIX,money-link.com.tw, PROXY
 DOMAIN-SUFFIX,moneyhome.biz, PROXY
 DOMAIN-SUFFIX,monitorchina.org, PROXY
+DOMAIN-SUFFIX,monocloud.me, PROXY
 DOMAIN-SUFFIX,monster.com, PROXY
 DOMAIN-SUFFIX,moodyz.com, PROXY
 DOMAIN-SUFFIX,moon.fm, PROXY
@@ -3622,6 +3631,7 @@ DOMAIN-SUFFIX,newgrounds.com, PROXY
 DOMAIN-SUFFIX,newhighlandvision.com, PROXY
 DOMAIN-SUFFIX,newipnow.com, PROXY
 DOMAIN-SUFFIX,newlandmagazine.com.au, PROXY
+DOMAIN-SUFFIX,newmitbbs.com, PROXY
 DOMAIN-SUFFIX,newnews.ca, PROXY
 DOMAIN-SUFFIX,news.cnyes.com, PROXY
 DOMAIN-SUFFIX,news.hk.msn.com, PROXY
@@ -3942,6 +3952,7 @@ DOMAIN-SUFFIX,paste.ee, PROXY
 DOMAIN-SUFFIX,pastebin.com, PROXY
 DOMAIN-SUFFIX,pastie.org, PROXY
 DOMAIN-SUFFIX,patreon.com, PROXY
+DOMAIN-SUFFIX,pawoo.net, PROXY
 DOMAIN-SUFFIX,paxful.com, PROXY
 DOMAIN-SUFFIX,pbs.org, PROXY
 DOMAIN-SUFFIX,pbwiki.com, PROXY
@@ -4382,6 +4393,7 @@ DOMAIN-SUFFIX,sakya.org, PROXY
 DOMAIN-SUFFIX,salvation.org.hk, PROXY
 DOMAIN-SUFFIX,samair.ru, PROXY
 DOMAIN-SUFFIX,sambhota.org, PROXY
+DOMAIN-SUFFIX,sankakucomplex.com, PROXY
 DOMAIN-SUFFIX,sankei.com, PROXY
 DOMAIN-SUFFIX,sanmin.com.tw, PROXY
 DOMAIN-SUFFIX,sapikachu.net, PROXY
@@ -5169,6 +5181,7 @@ DOMAIN-SUFFIX,tsu.org.tw, PROXY
 DOMAIN-SUFFIX,tsunagarumon.com, PROXY
 DOMAIN-SUFFIX,tt1069.com, PROXY
 DOMAIN-SUFFIX,tttan.com, PROXY
+DOMAIN-SUFFIX,ttv.com.tw, PROXY
 DOMAIN-SUFFIX,ttvnw.net, PROXY
 DOMAIN-SUFFIX,tu8964.com, PROXY
 DOMAIN-SUFFIX,tubaholic.com, PROXY
@@ -5640,6 +5653,7 @@ DOMAIN-SUFFIX,webfreer.com, PROXY
 DOMAIN-SUFFIX,webjb.org, PROXY
 DOMAIN-SUFFIX,weblagu.com, PROXY
 DOMAIN-SUFFIX,webmproject.org, PROXY
+DOMAIN-SUFFIX,webpkgcache.com, PROXY
 DOMAIN-SUFFIX,webrtc.org, PROXY
 DOMAIN-SUFFIX,webrush.net, PROXY
 DOMAIN-SUFFIX,webs-tv.net, PROXY
