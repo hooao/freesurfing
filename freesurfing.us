@@ -35073,6 +35073,7 @@ ip-cidr,199.244.64.0/22, PROXY
 ip-cidr,199.244.68.0/22, PROXY
 ip-cidr,199.244.72.0/22, PROXY
 ip-cidr,199.244.8.0/22, PROXY
+ip-cidr,199.244.80.0/22, PROXY
 ip-cidr,199.244.84.0/22, PROXY
 ip-cidr,199.244.88.0/22, PROXY
 ip-cidr,199.244.92.0/22, PROXY
