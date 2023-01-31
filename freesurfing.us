@@ -7493,7 +7493,13 @@ ip-cidr,158.175.0.0/16, PROXY
 ip-cidr,158.176.0.0/16, PROXY
 ip-cidr,158.177.0.0/16, PROXY
 ip-cidr,158.178.0.0/17, PROXY
+ip-cidr,158.178.128.0/17, PROXY
+ip-cidr,158.179.1.0/18, PROXY
+ip-cidr,158.179.128.255/17, PROXY
 ip-cidr,158.18.0.0/16, PROXY
+ip-cidr,158.180.0.0/17, PROXY
+ip-cidr,158.180.160.0/19, PROXY
+ip-cidr,158.180.226.0/19, PROXY
 ip-cidr,158.183.0.0/16, PROXY
 ip-cidr,158.184.0.0/16, PROXY
 ip-cidr,158.185.0.0/16, PROXY
