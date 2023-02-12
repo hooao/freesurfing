@@ -11301,6 +11301,7 @@ ip-cidr,169.188.0.0/14, PROXY
 ip-cidr,169.192.0.0/14, PROXY
 ip-cidr,169.196.0.0/16, PROXY
 ip-cidr,169.197.0.0/18, PROXY
+ip-cidr,169.197.128.0/24, PROXY
 ip-cidr,169.197.129.0/24, PROXY
 ip-cidr,169.197.131.0/24, PROXY
 ip-cidr,169.197.133.0/24, PROXY
@@ -22260,6 +22261,7 @@ ip-cidr,192.55.239.0/24, PROXY
 ip-cidr,192.55.24.0/21, PROXY
 ip-cidr,192.55.240.0/24, PROXY
 ip-cidr,192.55.241.0/24, PROXY
+ip-cidr,192.55.242.0/23, PROXY
 ip-cidr,192.55.245.0/24, PROXY
 ip-cidr,192.55.246.0/24, PROXY
 ip-cidr,192.55.247.0/24, PROXY
@@ -30098,7 +30100,10 @@ ip-cidr,198.241.16.0/20, PROXY
 ip-cidr,198.241.32.0/21, PROXY
 ip-cidr,198.241.40.0/22, PROXY
 ip-cidr,198.241.44.0/22, PROXY
-ip-cidr,198.241.48.0/21, PROXY
+ip-cidr,198.241.48.0/24, PROXY
+ip-cidr,198.241.49.0/24, PROXY
+ip-cidr,198.241.50.0/23, PROXY
+ip-cidr,198.241.52.0/22, PROXY
 ip-cidr,198.241.56.0/22, PROXY
 ip-cidr,198.241.60.0/23, PROXY
 ip-cidr,198.241.62.0/23, PROXY
@@ -41954,6 +41959,7 @@ ip-cidr,204.9.187.0/24, PROXY
 ip-cidr,204.9.188.0/24, PROXY
 ip-cidr,204.9.189.0/24, PROXY
 ip-cidr,204.9.190.0/23, PROXY
+ip-cidr,204.9.192.0/21, PROXY
 ip-cidr,204.9.200.0/21, PROXY
 ip-cidr,204.9.208.0/21, PROXY
 ip-cidr,204.9.216.0/22, PROXY
@@ -44696,6 +44702,7 @@ ip-cidr,206.223.10.0/24, PROXY
 ip-cidr,206.223.100.0/24, PROXY
 ip-cidr,206.223.101.0/24, PROXY
 ip-cidr,206.223.102.0/24, PROXY
+ip-cidr,206.223.103.0/24, PROXY
 ip-cidr,206.223.104.0/22, PROXY
 ip-cidr,206.223.108.0/23, PROXY
 ip-cidr,206.223.11.0/24, PROXY
@@ -52245,6 +52252,7 @@ ip-cidr,23.147.168.0/24, PROXY
 ip-cidr,23.147.176.0/24, PROXY
 ip-cidr,23.147.184.0/24, PROXY
 ip-cidr,23.147.192.0/24, PROXY
+ip-cidr,23.147.200.0/24, PROXY
 ip-cidr,23.147.208.0/23, PROXY
 ip-cidr,23.147.224.0/24, PROXY
 ip-cidr,23.147.225.0/24, PROXY
@@ -60108,6 +60116,7 @@ ip-cidr,68.70.32.0/20, PROXY
 ip-cidr,68.70.48.0/20, PROXY
 ip-cidr,68.70.64.0/19, PROXY
 ip-cidr,68.70.96.0/20, PROXY
+ip-cidr,68.71.112.0/20, PROXY
 ip-cidr,68.71.128.0/19, PROXY
 ip-cidr,68.71.160.0/19, PROXY
 ip-cidr,68.71.192.0/20, PROXY
