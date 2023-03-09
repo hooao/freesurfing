@@ -105,6 +105,7 @@ ip-cidr,103.196.180.0/22, PROXY
 ip-cidr,103.196.20.0/22, PROXY
 ip-cidr,103.196.8.0/22, PROXY
 ip-cidr,103.20.234.0/23, PROXY
+ip-cidr,103.202.52.0/22, PROXY
 ip-cidr,103.203.40.0/22, PROXY
 ip-cidr,103.204.124.0/22, PROXY
 ip-cidr,103.204.128.0/22, PROXY
@@ -5804,7 +5805,6 @@ ip-cidr,148.59.132.0/24, PROXY
 ip-cidr,148.59.133.0/24, PROXY
 ip-cidr,148.59.135.0/24, PROXY
 ip-cidr,148.59.137.0/24, PROXY
-ip-cidr,148.59.138.0/24, PROXY
 ip-cidr,148.59.139.0/24, PROXY
 ip-cidr,148.59.140.0/24, PROXY
 ip-cidr,148.59.141.0/24, PROXY
@@ -23335,6 +23335,7 @@ ip-cidr,192.77.14.0/24, PROXY
 ip-cidr,192.77.142.0/24, PROXY
 ip-cidr,192.77.143.0/24, PROXY
 ip-cidr,192.77.144.0/24, PROXY
+ip-cidr,192.77.145.0/24, PROXY
 ip-cidr,192.77.146.0/24, PROXY
 ip-cidr,192.77.147.0/24, PROXY
 ip-cidr,192.77.148.0/24, PROXY
@@ -36432,7 +36433,8 @@ ip-cidr,199.45.154.0/23, PROXY
 ip-cidr,199.45.156.0/22, PROXY
 ip-cidr,199.45.16.0/21, PROXY
 ip-cidr,199.45.160.0/22, PROXY
-ip-cidr,199.45.164.0/22, PROXY
+ip-cidr,199.45.164.0/23, PROXY
+ip-cidr,199.45.166.0/24, PROXY
 ip-cidr,199.45.168.0/21, PROXY
 ip-cidr,199.45.176.0/20, PROXY
 ip-cidr,199.45.192.0/19, PROXY
@@ -41639,6 +41641,7 @@ ip-cidr,204.86.12.0/24, PROXY
 ip-cidr,204.86.120.0/21, PROXY
 ip-cidr,204.86.128.0/23, PROXY
 ip-cidr,204.86.13.0/24, PROXY
+ip-cidr,204.86.130.0/23, PROXY
 ip-cidr,204.86.132.0/22, PROXY
 ip-cidr,204.86.14.0/23, PROXY
 ip-cidr,204.86.152.0/21, PROXY
@@ -52162,6 +52165,7 @@ ip-cidr,23.144.152.0/24, PROXY
 ip-cidr,23.144.16.0/24, PROXY
 ip-cidr,23.144.160.0/24, PROXY
 ip-cidr,23.144.168.0/24, PROXY
+ip-cidr,23.144.169.0/24, PROXY
 ip-cidr,23.144.176.0/24, PROXY
 ip-cidr,23.144.184.0/24, PROXY
 ip-cidr,23.144.192.0/24, PROXY
@@ -52319,10 +52323,12 @@ ip-cidr,23.149.160.0/24, PROXY
 ip-cidr,23.149.192.0/24, PROXY
 ip-cidr,23.149.208.0/24, PROXY
 ip-cidr,23.149.224.0/24, PROXY
+ip-cidr,23.149.24.0/24, PROXY
 ip-cidr,23.149.240.0/24, PROXY
 ip-cidr,23.149.32.0/24, PROXY
 ip-cidr,23.149.48.0/24, PROXY
 ip-cidr,23.149.64.0/24, PROXY
+ip-cidr,23.149.8.0/24, PROXY
 ip-cidr,23.149.80.0/24, PROXY
 ip-cidr,23.149.96.0/24, PROXY
 ip-cidr,23.150.112.0/24, PROXY
@@ -52603,7 +52609,6 @@ ip-cidr,23.168.64.0/24, PROXY
 ip-cidr,23.168.80.0/24, PROXY
 ip-cidr,23.168.96.0/24, PROXY
 ip-cidr,23.168.97.0/24, PROXY
-ip-cidr,23.169.0.0/24, PROXY
 ip-cidr,23.169.112.0/24, PROXY
 ip-cidr,23.169.128.0/24, PROXY
 ip-cidr,23.169.144.0/24, PROXY
