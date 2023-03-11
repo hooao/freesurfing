@@ -63077,7 +63077,9 @@ ip-cidr,74.80.165.0/24, PROXY
 ip-cidr,74.80.166.0/23, PROXY
 ip-cidr,74.80.168.0/21, PROXY
 ip-cidr,74.80.176.0/20, PROXY
-ip-cidr,74.80.192.0/22, PROXY
+ip-cidr,74.80.192.0/23, PROXY
+ip-cidr,74.80.194.0/24, PROXY
+ip-cidr,74.80.195.0/24, PROXY
 ip-cidr,74.80.196.0/24, PROXY
 ip-cidr,74.80.197.0/24, PROXY
 ip-cidr,74.80.198.0/24, PROXY
