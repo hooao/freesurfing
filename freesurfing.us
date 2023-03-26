@@ -52434,6 +52434,7 @@ ip-cidr,23.150.40.0/24, PROXY
 ip-cidr,23.150.48.0/24, PROXY
 ip-cidr,23.150.56.0/24, PROXY
 ip-cidr,23.150.64.0/24, PROXY
+ip-cidr,23.150.72.0/24, PROXY
 ip-cidr,23.150.8.0/24, PROXY
 ip-cidr,23.150.9.0/24, PROXY
 ip-cidr,23.150.96.0/24, PROXY
