@@ -287,6 +287,7 @@ DOMAIN-SUFFIX,animecrazy.net, PROXY
 DOMAIN-SUFFIX,aniscartujo.com, PROXY
 DOMAIN-SUFFIX,annatam.com, PROXY
 DOMAIN-SUFFIX,anobii.com, PROXY
+DOMAIN-SUFFIX,anonfiles.com, PROXY
 DOMAIN-SUFFIX,anontext.com, PROXY
 DOMAIN-SUFFIX,anonymitynetwork.com, PROXY
 DOMAIN-SUFFIX,anonymizer.com, PROXY
@@ -1082,6 +1083,7 @@ DOMAIN-SUFFIX,clipfish.de, PROXY
 DOMAIN-SUFFIX,cloakpoint.com, PROXY
 DOMAIN-SUFFIX,cloud.mail.ru, PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com, PROXY
+DOMAIN-SUFFIX,cloudfunctions.net, PROXY
 DOMAIN-SUFFIX,club1069.com, PROXY
 DOMAIN-SUFFIX,clubhouseapi.com, PROXY
 DOMAIN-SUFFIX,clyp.it, PROXY
@@ -1414,7 +1416,6 @@ DOMAIN-SUFFIX,doujincafe.com, PROXY
 DOMAIN-SUFFIX,dowei.org, PROXY
 DOMAIN-SUFFIX,download.aircrack-ng.org, PROXY
 DOMAIN-SUFFIX,download.cnet.com, PROXY
-DOMAIN-SUFFIX,download.ithome.com.tw, PROXY
 DOMAIN-SUFFIX,dphk.org, PROXY
 DOMAIN-SUFFIX,dpp.org.tw, PROXY
 DOMAIN-SUFFIX,dpr.info, PROXY
@@ -2872,6 +2873,7 @@ DOMAIN-SUFFIX,itaiwan.gov.tw, PROXY
 DOMAIN-SUFFIX,italiatibet.org, PROXY
 DOMAIN-SUFFIX,itasoftware.com, PROXY
 DOMAIN-SUFFIX,itemdb.com, PROXY
+DOMAIN-SUFFIX,itemfix.com, PROXY
 DOMAIN-SUFFIX,ithelp.ithome.com.tw, PROXY
 DOMAIN-SUFFIX,its.caltech.edu, PROXY
 DOMAIN-SUFFIX,itsaol.com, PROXY
@@ -3119,6 +3121,7 @@ DOMAIN-SUFFIX,ld.hao123img.com, PROXY
 DOMAIN-SUFFIX,le-vpn.com, PROXY
 DOMAIN-SUFFIX,leafyvpn.net, PROXY
 DOMAIN-SUFFIX,lecloud.net, PROXY
+DOMAIN-SUFFIX,ledger.com, PROXY
 DOMAIN-SUFFIX,leeao.com.cn, PROXY
 DOMAIN-SUFFIX,lefora.com, PROXY
 DOMAIN-SUFFIX,left21.hk, PROXY
@@ -3829,6 +3832,7 @@ DOMAIN-SUFFIX,okx.com, PROXY
 DOMAIN-SUFFIX,old-cat.net, PROXY
 DOMAIN-SUFFIX,old.honeynet.org, PROXY
 DOMAIN-SUFFIX,old.nabble.com, PROXY
+DOMAIN-SUFFIX,olehdtv.com, PROXY
 DOMAIN-SUFFIX,olevod.com, PROXY
 DOMAIN-SUFFIX,olumpo.com, PROXY
 DOMAIN-SUFFIX,olympicwatch.org, PROXY
