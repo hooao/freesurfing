@@ -11643,7 +11643,8 @@ ip-cidr,170.225.229.0/24, PROXY
 ip-cidr,170.225.230.0/23, PROXY
 ip-cidr,170.225.232.0/21, PROXY
 ip-cidr,170.225.240.0/20, PROXY
-ip-cidr,170.226.0.0/15, PROXY
+ip-cidr,170.226.0.0/16, PROXY
+ip-cidr,170.227.0.0/16, PROXY
 ip-cidr,170.228.0.0/16, PROXY
 ip-cidr,170.229.0.0/16, PROXY
 ip-cidr,170.23.0.0/16, PROXY

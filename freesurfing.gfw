@@ -2667,6 +2667,7 @@ DOMAIN-SUFFIX,huaxia-news.com, PROXY
 DOMAIN-SUFFIX,huaxiabao.org, PROXY
 DOMAIN-SUFFIX,huaxin.ph, PROXY
 DOMAIN-SUFFIX,huayuworld.org, PROXY
+DOMAIN-SUFFIX,hub.docker.com, PROXY
 DOMAIN-SUFFIX,hudatoriq.web.id, PROXY
 DOMAIN-SUFFIX,hudson.org, PROXY
 DOMAIN-SUFFIX,huffingtonpost.com, PROXY
@@ -3926,6 +3927,7 @@ DOMAIN-SUFFIX,packetix.net, PROXY
 DOMAIN-SUFFIX,pacopacomama.com, PROXY
 DOMAIN-SUFFIX,padmanet.com, PROXY
 DOMAIN-SUFFIX,page.bid.yahoo.com, PROXY
+DOMAIN-SUFFIX,page.link, PROXY
 DOMAIN-SUFFIX,page2rss.com, PROXY
 DOMAIN-SUFFIX,pages.dev, PROXY
 DOMAIN-SUFFIX,pagodabox.com, PROXY
@@ -4069,6 +4071,7 @@ DOMAIN-SUFFIX,pobieramy.top, PROXY
 DOMAIN-SUFFIX,podbean.com, PROXY
 DOMAIN-SUFFIX,podcast.co, PROXY
 DOMAIN-SUFFIX,podictionary.com, PROXY
+DOMAIN-SUFFIX,poe.com, PROXY
 DOMAIN-SUFFIX,pokerstars.com, PROXY
 DOMAIN-SUFFIX,pokerstars.net, PROXY
 DOMAIN-SUFFIX,politicalchina.org, PROXY
