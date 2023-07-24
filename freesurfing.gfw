@@ -2384,6 +2384,7 @@ DOMAIN-SUFFIX,greenpeace.org, PROXY
 DOMAIN-SUFFIX,greenreadings.com, PROXY
 DOMAIN-SUFFIX,greenvpn.net, PROXY
 DOMAIN-SUFFIX,greenvpn.org, PROXY
+DOMAIN-SUFFIX,grindr.com, PROXY
 DOMAIN-SUFFIX,grotty-monday.com, PROXY
 DOMAIN-SUFFIX,groups.google.cn, PROXY
 DOMAIN-SUFFIX,grow.google, PROXY
@@ -2780,6 +2781,7 @@ DOMAIN-SUFFIX,imb.org, PROXY
 DOMAIN-SUFFIX,imdb.com, PROXY
 DOMAIN-SUFFIX,img.dlsite.jp, PROXY
 DOMAIN-SUFFIX,img.ly, PROXY
+DOMAIN-SUFFIX,imgasd.com, PROXY
 DOMAIN-SUFFIX,imgchili.net, PROXY
 DOMAIN-SUFFIX,imgmega.com, PROXY
 DOMAIN-SUFFIX,imgur.com, PROXY
@@ -5902,6 +5904,7 @@ DOMAIN-SUFFIX,xiaod.in, PROXY
 DOMAIN-SUFFIX,xiaohexie.com, PROXY
 DOMAIN-SUFFIX,xiaolan.me, PROXY
 DOMAIN-SUFFIX,xiaoma.org, PROXY
+DOMAIN-SUFFIX,xiaomi.eu, PROXY
 DOMAIN-SUFFIX,xiaxiaoqiang.net, PROXY
 DOMAIN-SUFFIX,xiezhua.com, PROXY
 DOMAIN-SUFFIX,xihua.es, PROXY
