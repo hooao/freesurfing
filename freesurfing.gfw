@@ -105,7 +105,6 @@ DOMAIN-SUFFIX,6park.com, PROXY
 DOMAIN-SUFFIX,6parkbbs.com, PROXY
 DOMAIN-SUFFIX,6parker.com, PROXY
 DOMAIN-SUFFIX,6parknews.com, PROXY
-DOMAIN-SUFFIX,7-zip.org, PROXY
 DOMAIN-SUFFIX,7capture.com, PROXY
 DOMAIN-SUFFIX,7cow.com, PROXY
 DOMAIN-SUFFIX,8-d.com, PROXY
@@ -1064,6 +1063,7 @@ DOMAIN-SUFFIX,civildisobediencemovement.org, PROXY
 DOMAIN-SUFFIX,civilhrfront.org, PROXY
 DOMAIN-SUFFIX,civiliangunner.com, PROXY
 DOMAIN-SUFFIX,civilmedia.tw, PROXY
+DOMAIN-SUFFIX,civitai.com, PROXY
 DOMAIN-SUFFIX,ck101.com, PROXY
 DOMAIN-SUFFIX,cl.d0z.net, PROXY
 DOMAIN-SUFFIX,clarionproject.org, PROXY
@@ -3150,6 +3150,7 @@ DOMAIN-SUFFIX,lflinkup.net, PROXY
 DOMAIN-SUFFIX,lflinkup.org, PROXY
 DOMAIN-SUFFIX,lhakar.org, PROXY
 DOMAIN-SUFFIX,lhasocialwork.org, PROXY
+DOMAIN-SUFFIX,li.taipei, PROXY
 DOMAIN-SUFFIX,liangyou.net, PROXY
 DOMAIN-SUFFIX,liangzhichuanmei.com, PROXY
 DOMAIN-SUFFIX,lianyue.net, PROXY
@@ -3463,6 +3464,7 @@ DOMAIN-SUFFIX,molihua.org, PROXY
 DOMAIN-SUFFIX,mondex.org, PROXY
 DOMAIN-SUFFIX,money-link.com.tw, PROXY
 DOMAIN-SUFFIX,moneyhome.biz, PROXY
+DOMAIN-SUFFIX,monica.im, PROXY
 DOMAIN-SUFFIX,monitorchina.org, PROXY
 DOMAIN-SUFFIX,monocloud.me, PROXY
 DOMAIN-SUFFIX,monster.com, PROXY
@@ -3932,7 +3934,6 @@ DOMAIN-SUFFIX,padmanet.com, PROXY
 DOMAIN-SUFFIX,page.bid.yahoo.com, PROXY
 DOMAIN-SUFFIX,page.link, PROXY
 DOMAIN-SUFFIX,page2rss.com, PROXY
-DOMAIN-SUFFIX,pages.dev, PROXY
 DOMAIN-SUFFIX,pagodabox.com, PROXY
 DOMAIN-SUFFIX,palacemoon.com, PROXY
 DOMAIN-SUFFIX,paldengyal.com, PROXY
@@ -5168,7 +5169,6 @@ DOMAIN-SUFFIX,tracfone.com, PROXY
 DOMAIN-SUFFIX,tradingview.com, PROXY
 DOMAIN-SUFFIX,trans.wenweipo.com, PROXY
 DOMAIN-SUFFIX,translate.goog, PROXY
-DOMAIN-SUFFIX,translate.google, PROXY
 DOMAIN-SUFFIX,transparency.org, PROXY
 DOMAIN-SUFFIX,treemall.com.tw, PROXY
 DOMAIN-SUFFIX,trendsmap.com, PROXY
@@ -5567,7 +5567,6 @@ DOMAIN-SUFFIX,vovo2000.com, PROXY
 DOMAIN-SUFFIX,voxer.com, PROXY
 DOMAIN-SUFFIX,voy.com, PROXY
 DOMAIN-SUFFIX,vpn.ac, PROXY
-DOMAIN-SUFFIX,vpn.cjb.net, PROXY
 DOMAIN-SUFFIX,vpn.cmu.edu, PROXY
 DOMAIN-SUFFIX,vpn.sv.cmu.edu, PROXY
 DOMAIN-SUFFIX,vpn4all.com, PROXY
