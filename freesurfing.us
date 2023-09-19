@@ -61716,6 +61716,7 @@ ip-cidr,69.36.160.0/19, PROXY
 ip-cidr,69.36.192.0/20, PROXY
 ip-cidr,69.36.208.0/20, PROXY
 ip-cidr,69.36.224.0/19, PROXY
+ip-cidr,69.36.32.0/20, PROXY
 ip-cidr,69.36.48.0/20, PROXY
 ip-cidr,69.36.64.0/19, PROXY
 ip-cidr,69.37.0.0/16, PROXY
