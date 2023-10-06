@@ -6272,6 +6272,7 @@ ip-cidr,149.248.128.0/19, PROXY
 ip-cidr,149.248.160.0/21, PROXY
 ip-cidr,149.248.192.0/19, PROXY
 ip-cidr,149.248.64.0/21, PROXY
+ip-cidr,149.248.72.0/22, PROXY
 ip-cidr,149.248.76.0/22, PROXY
 ip-cidr,149.25.0.0/16, PROXY
 ip-cidr,149.252.0.0/16, PROXY
