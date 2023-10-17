@@ -55063,6 +55063,7 @@ ip-cidr,35.72.0.0/13, PROXY
 ip-cidr,35.80.0.0/12, PROXY
 ip-cidr,35.96.0.0/11, PROXY
 ip-cidr,36.255.24.0/22, PROXY
+ip-cidr,36.50.32.0/23, PROXY
 ip-cidr,37.0.112.0/21, PROXY
 ip-cidr,37.130.224.0/21, PROXY
 ip-cidr,37.139.0.0/19, PROXY
