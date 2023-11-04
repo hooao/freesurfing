@@ -6586,7 +6586,6 @@ ip-cidr,211.99.96.0/19, DIRECT
 ip-cidr,212.129.128.0/17, DIRECT
 ip-cidr,212.64.0.0/17, DIRECT
 ip-cidr,213.139.232.0/22, DIRECT
-ip-cidr,217.114.35.0/24, DIRECT
 ip-cidr,218.0.0.0/16, DIRECT
 ip-cidr,218.1.0.0/16, DIRECT
 ip-cidr,218.10.0.0/16, DIRECT
