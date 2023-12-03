@@ -435,6 +435,7 @@ DOMAIN-SUFFIX,babynet.com.hk, PROXY
 DOMAIN-SUFFIX,backchina.com, PROXY
 DOMAIN-SUFFIX,backpackers.com.tw, PROXY
 DOMAIN-SUFFIX,backtotiananmen.com, PROXY
+DOMAIN-SUFFIX,bad.news, PROXY
 DOMAIN-SUFFIX,badiucao.com, PROXY
 DOMAIN-SUFFIX,badjojo.com, PROXY
 DOMAIN-SUFFIX,badoo.com, PROXY
@@ -2804,6 +2805,7 @@ DOMAIN-SUFFIX,indiandefensenews.in, PROXY
 DOMAIN-SUFFIX,indiemerch.com, PROXY
 DOMAIN-SUFFIX,info-graf.fr, PROXY
 DOMAIN-SUFFIX,initiativesforchina.org, PROXY
+DOMAIN-SUFFIX,inkbunny.net, PROXY
 DOMAIN-SUFFIX,inkui.com, PROXY
 DOMAIN-SUFFIX,inmediahk.net, PROXY
 DOMAIN-SUFFIX,innermongolia.org, PROXY
@@ -3314,6 +3316,7 @@ DOMAIN-SUFFIX,matome-plus.net, PROXY
 DOMAIN-SUFFIX,matrix.org, PROXY
 DOMAIN-SUFFIX,matsushimakaede.com, PROXY
 DOMAIN-SUFFIX,matters.news, PROXY
+DOMAIN-SUFFIX,matters.town, PROXY
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com, PROXY
 DOMAIN-SUFFIX,mattwilcox.net, PROXY
 DOMAIN-SUFFIX,maturejp.com, PROXY
