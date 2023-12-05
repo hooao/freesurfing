@@ -53525,6 +53525,7 @@ ip-cidr,23.166.226.0/24, PROXY
 ip-cidr,23.166.24.0/24, PROXY
 ip-cidr,23.166.240.0/24, PROXY
 ip-cidr,23.166.241.0/24, PROXY
+ip-cidr,23.166.248.0/24, PROXY
 ip-cidr,23.166.40.0/24, PROXY
 ip-cidr,23.166.56.0/24, PROXY
 ip-cidr,23.166.64.0/24, PROXY
