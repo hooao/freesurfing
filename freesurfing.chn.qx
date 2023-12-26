@@ -6956,6 +6956,7 @@ ip-cidr,36.37.48.0/20, DIRECT
 ip-cidr,36.4.0.0/14, DIRECT
 ip-cidr,36.40.0.0/13, DIRECT
 ip-cidr,36.48.0.0/15, DIRECT
+ip-cidr,36.50.226.0/23, DIRECT
 ip-cidr,36.51.0.0/16, DIRECT
 ip-cidr,36.56.0.0/13, DIRECT
 ip-cidr,36.96.0.0/11, DIRECT
