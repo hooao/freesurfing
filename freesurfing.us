@@ -4822,7 +4822,10 @@ ip-cidr,142.54.42.0/23, PROXY
 ip-cidr,142.54.44.0/22, PROXY
 ip-cidr,142.54.64.0/18, PROXY
 ip-cidr,142.54.8.0/21, PROXY
-ip-cidr,142.56.0.0/16, PROXY
+ip-cidr,142.56.0.0/18, PROXY
+ip-cidr,142.56.128.0/18, PROXY
+ip-cidr,142.56.192.0/18, PROXY
+ip-cidr,142.56.64.0/18, PROXY
 ip-cidr,142.65.0.0/16, PROXY
 ip-cidr,142.77.0.0/16, PROXY
 ip-cidr,142.79.0.0/18, PROXY
