@@ -2410,6 +2410,7 @@ ip-cidr,130.51.60.0/22, PROXY
 ip-cidr,130.51.64.0/22, PROXY
 ip-cidr,130.51.68.0/22, PROXY
 ip-cidr,130.51.77.0/24, PROXY
+ip-cidr,130.51.78.0/24, PROXY
 ip-cidr,130.51.79.0/24, PROXY
 ip-cidr,130.51.8.0/22, PROXY
 ip-cidr,130.51.80.0/22, PROXY
@@ -5203,11 +5204,12 @@ ip-cidr,144.30.0.0/16, PROXY
 ip-cidr,144.31.0.0/16, PROXY
 ip-cidr,144.33.0.0/16, PROXY
 ip-cidr,144.34.0.0/18, PROXY
+ip-cidr,144.34.112.0/20, PROXY
 ip-cidr,144.34.64.0/20, PROXY
 ip-cidr,144.34.80.0/22, PROXY
 ip-cidr,144.34.84.0/22, PROXY
 ip-cidr,144.34.88.0/21, PROXY
-ip-cidr,144.34.96.0/19, PROXY
+ip-cidr,144.34.96.0/20, PROXY
 ip-cidr,144.35.0.0/16, PROXY
 ip-cidr,144.36.0.0/18, PROXY
 ip-cidr,144.36.105.0/24, PROXY
@@ -11023,12 +11025,14 @@ ip-cidr,167.253.52.0/22, PROXY
 ip-cidr,167.253.56.0/24, PROXY
 ip-cidr,167.253.58.0/24, PROXY
 ip-cidr,167.253.59.0/24, PROXY
+ip-cidr,167.253.60.0/24, PROXY
 ip-cidr,167.253.61.0/24, PROXY
 ip-cidr,167.253.62.0/24, PROXY
 ip-cidr,167.253.63.0/24, PROXY
 ip-cidr,167.253.64.0/22, PROXY
 ip-cidr,167.253.68.0/22, PROXY
 ip-cidr,167.253.78.0/24, PROXY
+ip-cidr,167.253.79.0/24, PROXY
 ip-cidr,167.253.8.0/22, PROXY
 ip-cidr,167.253.80.0/22, PROXY
 ip-cidr,167.253.84.0/22, PROXY
@@ -25530,7 +25534,6 @@ ip-cidr,195.254.64.0/18, PROXY
 ip-cidr,195.3.164.0/22, PROXY
 ip-cidr,195.34.80.0/23, PROXY
 ip-cidr,195.39.196.0/23, PROXY
-ip-cidr,195.42.232.0/22, PROXY
 ip-cidr,195.43.130.0/24, PROXY
 ip-cidr,195.46.39.0/24, PROXY
 ip-cidr,195.60.166.0/23, PROXY
@@ -25573,6 +25576,7 @@ ip-cidr,195.85.64.0/23, PROXY
 ip-cidr,195.85.75.0/24, PROXY
 ip-cidr,195.85.78.0/23, PROXY
 ip-cidr,195.85.85.0/24, PROXY
+ip-cidr,195.85.88.0/24, PROXY
 ip-cidr,195.86.0.0/16, PROXY
 ip-cidr,195.88.218.0/23, PROXY
 ip-cidr,195.88.24.0/23, PROXY
@@ -53839,6 +53843,7 @@ ip-cidr,23.172.176.0/24, PROXY
 ip-cidr,23.172.184.0/24, PROXY
 ip-cidr,23.172.192.0/24, PROXY
 ip-cidr,23.172.200.0/24, PROXY
+ip-cidr,23.172.216.0/24, PROXY
 ip-cidr,23.172.232.0/24, PROXY
 ip-cidr,23.172.24.0/24, PROXY
 ip-cidr,23.172.248.0/24, PROXY
