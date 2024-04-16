@@ -60972,7 +60972,8 @@ ip-cidr,67.217.24.0/22, PROXY
 ip-cidr,67.217.240.0/21, PROXY
 ip-cidr,67.217.248.0/24, PROXY
 ip-cidr,67.217.249.0/24, PROXY
-ip-cidr,67.217.250.0/23, PROXY
+ip-cidr,67.217.250.0/24, PROXY
+ip-cidr,67.217.251.0/24, PROXY
 ip-cidr,67.217.252.0/23, PROXY
 ip-cidr,67.217.28.0/22, PROXY
 ip-cidr,67.217.32.0/20, PROXY
