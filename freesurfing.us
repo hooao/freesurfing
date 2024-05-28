@@ -23188,7 +23188,6 @@ ip-cidr,192.64.240.0/20, PROXY
 ip-cidr,192.64.29.0/24, PROXY
 ip-cidr,192.64.32.0/22, PROXY
 ip-cidr,192.64.4.0/22, PROXY
-ip-cidr,192.64.44.0/23, PROXY
 ip-cidr,192.64.46.0/23, PROXY
 ip-cidr,192.64.48.0/22, PROXY
 ip-cidr,192.64.52.0/22, PROXY
