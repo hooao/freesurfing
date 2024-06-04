@@ -940,6 +940,7 @@ DOMAIN-SUFFIX,changsa.net, PROXY
 DOMAIN-SUFFIX,channelnewsasia.com, PROXY
 DOMAIN-SUFFIX,chaoex.com, PROXY
 DOMAIN-SUFFIX,chapm25.com, PROXY
+DOMAIN-SUFFIX,chat.lmsys.org, PROXY
 DOMAIN-SUFFIX,chatgpt.com, PROXY
 DOMAIN-SUFFIX,chatnook.com, PROXY
 DOMAIN-SUFFIX,chaturbate.com, PROXY
@@ -3218,7 +3219,6 @@ DOMAIN-SUFFIX,livecoin.net, PROXY
 DOMAIN-SUFFIX,livedoor.jp, PROXY
 DOMAIN-SUFFIX,liveleak.com, PROXY
 DOMAIN-SUFFIX,livemint.com, PROXY
-DOMAIN-SUFFIX,livestation.com, PROXY
 DOMAIN-SUFFIX,livestream.com, PROXY
 DOMAIN-SUFFIX,livevideo.com, PROXY
 DOMAIN-SUFFIX,livingonline.us, PROXY
@@ -3226,7 +3226,6 @@ DOMAIN-SUFFIX,livingstream.com, PROXY
 DOMAIN-SUFFIX,liwangyang.com, PROXY
 DOMAIN-SUFFIX,lizhizhuangbi.com, PROXY
 DOMAIN-SUFFIX,lkcn.net, PROXY
-DOMAIN-SUFFIX,llss.me, PROXY
 DOMAIN-SUFFIX,lncn.org, PROXY
 DOMAIN-SUFFIX,load.to, PROXY
 DOMAIN-SUFFIX,lobsangwangyal.com, PROXY
@@ -4262,9 +4261,9 @@ DOMAIN-SUFFIX,qxbbs.org, PROXY
 DOMAIN-SUFFIX,qz.com, PROXY
 DOMAIN-SUFFIX,r0.ru, PROXY
 DOMAIN-SUFFIX,r18.com, PROXY
-DOMAIN-SUFFIX,ra.gg, PROXY
 DOMAIN-SUFFIX,radicalparty.org, PROXY
 DOMAIN-SUFFIX,radiko.jp, PROXY
+DOMAIN-SUFFIX,radio-canada.ca, PROXY
 DOMAIN-SUFFIX,radio.garden, PROXY
 DOMAIN-SUFFIX,radioaustralia.net.au, PROXY
 DOMAIN-SUFFIX,radiohilight.net, PROXY
@@ -4874,6 +4873,7 @@ DOMAIN-SUFFIX,tahr.org.tw, PROXY
 DOMAIN-SUFFIX,taipei.gov.tw, PROXY
 DOMAIN-SUFFIX,taipeisociety.org, PROXY
 DOMAIN-SUFFIX,taipeitimes.com, PROXY
+DOMAIN-SUFFIX,taisounds.com, PROXY
 DOMAIN-SUFFIX,taiwan-sex.com, PROXY
 DOMAIN-SUFFIX,taiwanbible.com, PROXY
 DOMAIN-SUFFIX,taiwancon.com, PROXY
