@@ -1,22 +1,22 @@
-DOMAIN-SUFFIX,openai.com, PROXY
-DOMAIN-SUFFIX,truenas.com, PROXY
-DOMAIN-SUFFIX,cloudflare.docker.com, PROXY
-DOMAIN-SUFFIX,livekit.cloud, PROXY
-DOMAIN-SUFFIX,opensubtitles.com, PROXY
-DOMAIN-SUFFIX,telegram.com, PROXY
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,truenas.com
+DOMAIN-SUFFIX,cloudflare.docker.com
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,opensubtitles.com
+DOMAIN-SUFFIX,telegram.com
 
-ip-cidr,173.245.48.0/20, PROXY
-ip-cidr,103.21.244.0/22, PROXY
-ip-cidr,103.22.200.0/22, PROXY
-ip-cidr,103.31.4.0/22, PROXY
-ip-cidr,141.101.64.0/18, PROXY
-ip-cidr,108.162.192.0/18, PROXY
-ip-cidr,190.93.240.0/20, PROXY
-ip-cidr,188.114.96.0/20, PROXY
-ip-cidr,197.234.240.0/22, PROXY
-ip-cidr,198.41.128.0/17, PROXY
-ip-cidr,162.158.0.0/15, PROXY
-ip-cidr,104.16.0.0/13, PROXY
-ip-cidr,104.24.0.0/14, PROXY
-ip-cidr,172.64.0.0/13, PROXY
-ip-cidr,131.0.72.0/22, PROXY
+ip-cidr,173.245.48.0/20
+ip-cidr,103.21.244.0/22
+ip-cidr,103.22.200.0/22
+ip-cidr,103.31.4.0/22
+ip-cidr,141.101.64.0/18
+ip-cidr,108.162.192.0/18
+ip-cidr,190.93.240.0/20
+ip-cidr,188.114.96.0/20
+ip-cidr,197.234.240.0/22
+ip-cidr,198.41.128.0/17
+ip-cidr,162.158.0.0/15
+ip-cidr,104.16.0.0/13
+ip-cidr,104.24.0.0/14
+ip-cidr,172.64.0.0/13
+ip-cidr,131.0.72.0/22
