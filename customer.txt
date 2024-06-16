@@ -2,3 +2,5 @@ DOMAIN-SUFFIX,openai.com, PROXY
 DOMAIN-SUFFIX,truenas.com, PROXY
 DOMAIN-SUFFIX,cloudflare.docker.com, PROXY
 DOMAIN-SUFFIX,livekit.cloud, PROXY
+DOMAIN-SUFFIX,api.opensubtitles.com, PROXY
+DOMAIN-SUFFIX,api.telegram.com, PROXY
