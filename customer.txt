@@ -1,12 +1,11 @@
-DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openai
 DOMAIN-SUFFIX,truenas.com
 DOMAIN-SUFFIX,cloudflare.docker.com
 DOMAIN-SUFFIX,livekit.cloud
-DOMAIN-SUFFIX,opensubtitles.com
-DOMAIN-SUFFIX,telegram.com
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,api.telegram.org
+DOMAIN-KEYWORD,opensubtitles
+DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,themoviedb
+DOMAIN-KEYWORD,tmdb
 
 IP-CIDR,173.245.48.0/20
 IP-CIDR,103.21.244.0/22
