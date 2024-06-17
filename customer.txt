@@ -1,11 +1,11 @@
-DOMAIN-SUFFIX,openai
-DOMAIN-SUFFIX,truenas.com
-DOMAIN-SUFFIX,cloudflare.docker.com
-DOMAIN-SUFFIX,livekit.cloud
-DOMAIN-KEYWORD,opensubtitles
-DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,themoviedb
-DOMAIN-KEYWORD,tmdb
+DOMAIN-SUFFIX,openai,extended-matching
+DOMAIN-SUFFIX,truenas.com,extended-matching
+DOMAIN-SUFFIX,cloudflare.docker.com,extended-matching
+DOMAIN-SUFFIX,livekit.cloud,extended-matching
+DOMAIN-KEYWORD,opensubtitles,extended-matching
+DOMAIN-KEYWORD,telegram,extended-matching
+DOMAIN-KEYWORD,themoviedb,extended-matching
+DOMAIN-KEYWORD,tmdb,extended-matching
 
 IP-CIDR,173.245.48.0/20
 IP-CIDR,103.21.244.0/22
