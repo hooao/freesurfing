@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,openai,extended-matching
+DOMAIN-SUFFIX,docker.com,extended-matching
 DOMAIN-SUFFIX,truenas.com,extended-matching
 DOMAIN-SUFFIX,cloudflare.docker.com,extended-matching
 DOMAIN-SUFFIX,livekit.cloud,extended-matching
@@ -6,6 +7,8 @@ DOMAIN-KEYWORD,opensubtitles,extended-matching
 DOMAIN-KEYWORD,telegram,extended-matching
 DOMAIN-KEYWORD,themoviedb,extended-matching
 DOMAIN-KEYWORD,tmdb,extended-matching
+DOMAIN-SUFFIX,thetvdb.com,extended-matching
+DOMAIN-SUFFIX,docker.io,extended-matching
 
 IP-CIDR,173.245.48.0/20
 IP-CIDR,103.21.244.0/22
