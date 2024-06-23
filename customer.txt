@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,telegram,extended-matching
 DOMAIN-KEYWORD,themoviedb,extended-matching
 DOMAIN-KEYWORD,tmdb,extended-matching
 DOMAIN-KEYWORD,docker,extended-matching
+DOMAIN-KEYWORD,k8s,extended-matching
 DOMAIN-SUFFIX,thetvdb.com,extended-matching
 DOMAIN-SUFFIX,docker.io,extended-matching
 
