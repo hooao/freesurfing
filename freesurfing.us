@@ -59153,7 +59153,14 @@ ip-cidr,65.19.224.0/19, PROXY
 ip-cidr,65.19.64.0/19, PROXY
 ip-cidr,65.19.96.0/19, PROXY
 ip-cidr,65.192.0.0/11, PROXY
-ip-cidr,65.20.0.0/18, PROXY
+ip-cidr,65.20.0.0/19, PROXY
+ip-cidr,65.20.32.0/20, PROXY
+ip-cidr,65.20.48.0/23, PROXY
+ip-cidr,65.20.51.0/24, PROXY
+ip-cidr,65.20.52.0/22, PROXY
+ip-cidr,65.20.56.0/22, PROXY
+ip-cidr,65.20.60.0/23, PROXY
+ip-cidr,65.20.62.0/24, PROXY
 ip-cidr,65.20.64.0/18, PROXY
 ip-cidr,65.22.0.0/16, PROXY
 ip-cidr,65.224.0.0/12, PROXY
