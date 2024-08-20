@@ -66066,7 +66066,6 @@ ip-cidr,91.231.185.0/24, PROXY
 ip-cidr,91.231.3.0/24, PROXY
 ip-cidr,91.232.136.0/22, PROXY
 ip-cidr,91.233.198.0/24, PROXY
-ip-cidr,91.234.161.0/24, PROXY
 ip-cidr,91.234.47.0/24, PROXY
 ip-cidr,91.235.132.0/22, PROXY
 ip-cidr,91.236.216.0/22, PROXY
