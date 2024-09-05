@@ -3366,7 +3366,8 @@ ip-cidr,103.99.52.0/22, DIRECT
 ip-cidr,103.99.56.0/22, DIRECT
 ip-cidr,103.99.60.0/22, DIRECT
 ip-cidr,103.99.76.0/22, DIRECT
-ip-cidr,104.167.20.0/22, DIRECT
+ip-cidr,104.167.21.0/24, DIRECT
+ip-cidr,104.167.22.0/23, DIRECT
 ip-cidr,106.0.0.0/24, DIRECT
 ip-cidr,106.0.16.0/20, DIRECT
 ip-cidr,106.0.2.0/23, DIRECT
