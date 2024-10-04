@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,k8s,extended-matching
 DOMAIN-SUFFIX,thetvdb.com,extended-matching
 DOMAIN-SUFFIX,docker.io,extended-matching
 DOMAIN-SUFFIX,open.work.weixin.qq.com,extended-matching
+DOMAIN-SUFFIX,qyapi.weixin.qq.com,extended-matching
 
 IP-CIDR,173.245.48.0/20
 IP-CIDR,103.21.244.0/22
