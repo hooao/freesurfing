@@ -1662,6 +1662,7 @@ DOMAIN-SUFFIX,f8.com, PROXY
 DOMAIN-SUFFIX,fa.gov.tw, PROXY
 DOMAIN-SUFFIX,facebook.br, PROXY
 DOMAIN-SUFFIX,facebook.com, PROXY
+DOMAIN-SUFFIX,facebook.de, PROXY
 DOMAIN-SUFFIX,facebook.design, PROXY
 DOMAIN-SUFFIX,facebook.hu, PROXY
 DOMAIN-SUFFIX,facebook.in, PROXY
@@ -3393,6 +3394,7 @@ DOMAIN-SUFFIX,merit-times.com.tw, PROXY
 DOMAIN-SUFFIX,meshrep.com, PROXY
 DOMAIN-SUFFIX,mesotw.com, PROXY
 DOMAIN-SUFFIX,messenger.com, PROXY
+DOMAIN-SUFFIX,meta.com, PROXY
 DOMAIN-SUFFIX,metacafe.com, PROXY
 DOMAIN-SUFFIX,metafilter.com, PROXY
 DOMAIN-SUFFIX,metart.com, PROXY
@@ -5200,6 +5202,7 @@ DOMAIN-SUFFIX,torrentprivacy.com, PROXY
 DOMAIN-SUFFIX,torrentproject.se, PROXY
 DOMAIN-SUFFIX,torrenty.org, PROXY
 DOMAIN-SUFFIX,torrentz.eu, PROXY
+DOMAIN-SUFFIX,tortoisesvn.net, PROXY
 DOMAIN-SUFFIX,torvpn.com, PROXY
 DOMAIN-SUFFIX,tosh.comedycentral.com, PROXY
 DOMAIN-SUFFIX,totalvpn.com, PROXY
