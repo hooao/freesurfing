@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,chdbits.co,extended-matching
 DOMAIN-SUFFIX,qyapi.weixin.qq.com,extended-matching
 DOMAIN-SUFFIX,tktn.be,extended-matching
 DOMAIN-SUFFIX,notebooklm.google,extended-matching
+DOMAIN-SUFFIX,tiktokcdn.com,extended-matching
+DOMAIN-SUFFIX,tiktokcdn-us.com,extended-matching 
+DOMAIN-SUFFIX,tiktokv.us,extended-matching
