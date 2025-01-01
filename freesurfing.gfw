@@ -772,7 +772,8 @@ DOMAIN-SUFFIX,broadpressinc.com, PROXY
 DOMAIN-SUFFIX,brookings.edu, PROXY
 DOMAIN-SUFFIX,brucewang.net, PROXY
 DOMAIN-SUFFIX,brutaltgp.com, PROXY
-DOMAIN-SUFFIX,bt2mag.com, PROXY
+DOMAIN-SUFFIX,bsky.app, PROXY
+DOMAIN-SUFFIX,bsky.social, PROXY
 DOMAIN-SUFFIX,bt95.com, PROXY
 DOMAIN-SUFFIX,btaia.com, PROXY
 DOMAIN-SUFFIX,btbtav.com, PROXY
@@ -1323,6 +1324,7 @@ DOMAIN-SUFFIX,deaftone.com, PROXY
 DOMAIN-SUFFIX,debug.com, PROXY
 DOMAIN-SUFFIX,deck.ly, PROXY
 DOMAIN-SUFFIX,decodet.co, PROXY
+DOMAIN-SUFFIX,deepai.org, PROXY
 DOMAIN-SUFFIX,deepmind.com, PROXY
 DOMAIN-SUFFIX,deezer.com, PROXY
 DOMAIN-SUFFIX,definebabe.com, PROXY
@@ -1403,6 +1405,7 @@ DOMAIN-SUFFIX,dnset.com, PROXY
 DOMAIN-SUFFIX,dnsrd.com, PROXY
 DOMAIN-SUFFIX,dnssec.net, PROXY
 DOMAIN-SUFFIX,dnvod.tv, PROXY
+DOMAIN-SUFFIX,docs.new, PROXY
 DOMAIN-SUFFIX,doctorvoice.org, PROXY
 DOMAIN-SUFFIX,documentingreality.com, PROXY
 DOMAIN-SUFFIX,dogfartnetwork.com, PROXY
@@ -2408,6 +2411,7 @@ DOMAIN-SUFFIX,greenvpn.net, PROXY
 DOMAIN-SUFFIX,greenvpn.org, PROXY
 DOMAIN-SUFFIX,grindr.com, PROXY
 DOMAIN-SUFFIX,grotty-monday.com, PROXY
+DOMAIN-SUFFIX,ground.news, PROXY
 DOMAIN-SUFFIX,groups.google.cn, PROXY
 DOMAIN-SUFFIX,grow.google, PROXY
 DOMAIN-SUFFIX,gs-discuss.com, PROXY
@@ -2451,16 +2455,12 @@ DOMAIN-SUFFIX,h1n1china.org, PROXY
 DOMAIN-SUFFIX,h528.com, PROXY
 DOMAIN-SUFFIX,h5dm.com, PROXY
 DOMAIN-SUFFIX,h5galgame.me, PROXY
-DOMAIN-SUFFIX,hacg.club, PROXY
-DOMAIN-SUFFIX,hacg.in, PROXY
-DOMAIN-SUFFIX,hacg.li, PROXY
-DOMAIN-SUFFIX,hacg.me, PROXY
-DOMAIN-SUFFIX,hacg.red, PROXY
 DOMAIN-SUFFIX,hacken.cc, PROXY
 DOMAIN-SUFFIX,hacker.org, PROXY
 DOMAIN-SUFFIX,hackmd.io, PROXY
 DOMAIN-SUFFIX,hackthatphone.net, PROXY
 DOMAIN-SUFFIX,hahlo.com, PROXY
+DOMAIN-SUFFIX,haijiao.com, PROXY
 DOMAIN-SUFFIX,hakkatv.org.tw, PROXY
 DOMAIN-SUFFIX,handcraftedsoftware.org, PROXY
 DOMAIN-SUFFIX,hanime.tv, PROXY
@@ -2504,6 +2504,7 @@ DOMAIN-SUFFIX,hentaitube.tv, PROXY
 DOMAIN-SUFFIX,hentaivideoworld.com, PROXY
 DOMAIN-SUFFIX,heqinglian.net, PROXY
 DOMAIN-SUFFIX,heritage.org, PROXY
+DOMAIN-SUFFIX,herokuapp.com, PROXY
 DOMAIN-SUFFIX,heungkongdiscuss.com, PROXY
 DOMAIN-SUFFIX,hexieshe.com, PROXY
 DOMAIN-SUFFIX,hexieshe.xyz, PROXY
@@ -2656,6 +2657,7 @@ DOMAIN-SUFFIX,hougaige.com, PROXY
 DOMAIN-SUFFIX,howtoforge.com, PROXY
 DOMAIN-SUFFIX,hoxx.com, PROXY
 DOMAIN-SUFFIX,hpa.gov.tw, PROXY
+DOMAIN-SUFFIX,hpjav.com, PROXY
 DOMAIN-SUFFIX,hqcdp.org, PROXY
 DOMAIN-SUFFIX,hqjapanesesex.com, PROXY
 DOMAIN-SUFFIX,hqmovies.com, PROXY
@@ -2743,6 +2745,7 @@ DOMAIN-SUFFIX,iamtopone.com, PROXY
 DOMAIN-SUFFIX,iask.bz, PROXY
 DOMAIN-SUFFIX,iask.ca, PROXY
 DOMAIN-SUFFIX,iav19.com, PROXY
+DOMAIN-SUFFIX,iavian.net, PROXY
 DOMAIN-SUFFIX,ibiblio.org, PROXY
 DOMAIN-SUFFIX,ibit.am, PROXY
 DOMAIN-SUFFIX,iblist.com, PROXY
@@ -4011,6 +4014,7 @@ DOMAIN-SUFFIX,pbxes.org, PROXY
 DOMAIN-SUFFIX,pcanywhere.net, PROXY
 DOMAIN-SUFFIX,pcc.gov.tw, PROXY
 DOMAIN-SUFFIX,pcdvd.com.tw, PROXY
+DOMAIN-SUFFIX,pcgamestorrents.com, PROXY
 DOMAIN-SUFFIX,pchome.com.tw, PROXY
 DOMAIN-SUFFIX,pcij.org, PROXY
 DOMAIN-SUFFIX,pcstore.com.tw, PROXY
@@ -4556,6 +4560,7 @@ DOMAIN-SUFFIX,sharpdaily.hk, PROXY
 DOMAIN-SUFFIX,sharpdaily.tw, PROXY
 DOMAIN-SUFFIX,shat-tibet.com, PROXY
 DOMAIN-SUFFIX,shattered.io, PROXY
+DOMAIN-SUFFIX,sheets.new, PROXY
 DOMAIN-SUFFIX,sheikyermami.com, PROXY
 DOMAIN-SUFFIX,shellfire.de, PROXY
 DOMAIN-SUFFIX,shenshou.org, PROXY
@@ -4639,6 +4644,7 @@ DOMAIN-SUFFIX,slaytizle.com, PROXY
 DOMAIN-SUFFIX,sleazydream.com, PROXY
 DOMAIN-SUFFIX,slheng.com, PROXY
 DOMAIN-SUFFIX,slickvpn.com, PROXY
+DOMAIN-SUFFIX,slides.new, PROXY
 DOMAIN-SUFFIX,slideshare.net, PROXY
 DOMAIN-SUFFIX,slinkset.com, PROXY
 DOMAIN-SUFFIX,slutload.com, PROXY
@@ -4654,6 +4660,7 @@ DOMAIN-SUFFIX,smhric.org, PROXY
 DOMAIN-SUFFIX,smith.edu, PROXY
 DOMAIN-SUFFIX,smyxy.org, PROXY
 DOMAIN-SUFFIX,snapchat.com, PROXY
+DOMAIN-SUFFIX,snapseed.com, PROXY
 DOMAIN-SUFFIX,snaptu.com, PROXY
 DOMAIN-SUFFIX,sndcdn.com, PROXY
 DOMAIN-SUFFIX,sneakme.net, PROXY
@@ -5659,6 +5666,7 @@ DOMAIN-SUFFIX,vpnworldwide.com, PROXY
 DOMAIN-SUFFIX,vporn.com, PROXY
 DOMAIN-SUFFIX,vpser.net, PROXY
 DOMAIN-SUFFIX,vraiesagesse.net, PROXY
+DOMAIN-SUFFIX,vrchat.com, PROXY
 DOMAIN-SUFFIX,vrmtr.com, PROXY
 DOMAIN-SUFFIX,vrsmash.com, PROXY
 DOMAIN-SUFFIX,vtunnel.com, PROXY
@@ -5759,6 +5767,7 @@ DOMAIN-SUFFIX,wforum.com, PROXY
 DOMAIN-SUFFIX,wha.la, PROXY
 DOMAIN-SUFFIX,whatblocked.com, PROXY
 DOMAIN-SUFFIX,whatbrowser.org, PROXY
+DOMAIN-SUFFIX,whats.new, PROXY
 DOMAIN-SUFFIX,whatsapp.com, PROXY
 DOMAIN-SUFFIX,whatsapp.net, PROXY
 DOMAIN-SUFFIX,whatsonweibo.com, PROXY
