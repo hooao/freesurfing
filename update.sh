@@ -40,11 +40,13 @@ curl -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 rm -rf $TMP_DIR
 
 echo "Updating gfwlist"
-if [[ $1 == "--debug" ]]; then
-   echo "updating dnsmasq"
-else
-   ./gfwlist2dnsmasq.sh -o freesurfing.gfw
-fi
+curl --proxy https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt \
+| base64 -d \
+| grep -Ev "^[!@ /\[]" \
+| grep -Eo "[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)+" \
+| sed "s/^/DOMAIN-SUFFIX, /" \
+| sed "s/$/, PROXY/" > freesurfing.gfw
+
 
 diffcount=$(git diff freesurfing* asn.chn  | wc -l)
 if [ $diffcount != 0 ]; then
