@@ -44,6 +44,7 @@ curl https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt \
 | base64 -d \
 | grep -Ev "^[!@ /\[]" \
 | grep -Eo "[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)+" \
+| sort -u \
 | sed "s/^/DOMAIN-SUFFIX, /" \
 | sed "s/$/, PROXY/" > freesurfing.gfw
 
