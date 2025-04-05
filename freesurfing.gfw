@@ -438,6 +438,7 @@ DOMAIN-SUFFIX, atnext.com, PROXY
 DOMAIN-SUFFIX, auctions.yahoo.co.jp, PROXY
 DOMAIN-SUFFIX, audacy.com, PROXY
 DOMAIN-SUFFIX, auntology.fandom.com, PROXY
+DOMAIN-SUFFIX, auth.openai.com, PROXY
 DOMAIN-SUFFIX, authorizeddns.net, PROXY
 DOMAIN-SUFFIX, authorizeddns.org, PROXY
 DOMAIN-SUFFIX, authorizeddns.us, PROXY
@@ -3913,6 +3914,7 @@ DOMAIN-SUFFIX, open.firstory.me, PROXY
 DOMAIN-SUFFIX, open.spotify.com, PROXY
 DOMAIN-SUFFIX, openallweb.com, PROXY
 DOMAIN-SUFFIX, opendemocracy.net, PROXY
+DOMAIN-SUFFIX, opendesktop.org, PROXY
 DOMAIN-SUFFIX, opendn.xyz, PROXY
 DOMAIN-SUFFIX, openervpn.in, PROXY
 DOMAIN-SUFFIX, openid.net, PROXY
