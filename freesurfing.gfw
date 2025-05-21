@@ -281,6 +281,7 @@ DOMAIN-SUFFIX, alwaysvpn.com, PROXY
 DOMAIN-SUFFIX, am730.com.hk, PROXY
 DOMAIN-SUFFIX, amazon.co.jp, PROXY
 DOMAIN-SUFFIX, amazonaws.com, PROXY
+DOMAIN-SUFFIX, amazonvideo.com, PROXY
 DOMAIN-SUFFIX, ameblo.jp, PROXY
 DOMAIN-SUFFIX, americangreencard.com, PROXY
 DOMAIN-SUFFIX, americanunfinished.com, PROXY
@@ -4205,6 +4206,7 @@ DOMAIN-SUFFIX, presentationzen.com, PROXY
 DOMAIN-SUFFIX, presidentlee.tw, PROXY
 DOMAIN-SUFFIX, prestige-av.com, PROXY
 DOMAIN-SUFFIX, pride.google, PROXY
+DOMAIN-SUFFIX, primevideo.com, PROXY
 DOMAIN-SUFFIX, prism-break.org, PROXY
 DOMAIN-SUFFIX, prisoneralert.com, PROXY
 DOMAIN-SUFFIX, pritunl.com, PROXY
