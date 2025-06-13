@@ -1218,6 +1218,7 @@ DOMAIN-SUFFIX, counter.social, PROXY
 DOMAIN-SUFFIX, coursehero.com, PROXY
 DOMAIN-SUFFIX, coze.com, PROXY
 DOMAIN-SUFFIX, cpj.org, PROXY
+DOMAIN-SUFFIX, cpu-monkey.com, PROXY
 DOMAIN-SUFFIX, cq99.us, PROXY
 DOMAIN-SUFFIX, crackle.com, PROXY
 DOMAIN-SUFFIX, crazypool.org, PROXY
@@ -2667,7 +2668,6 @@ DOMAIN-SUFFIX, hutong9.net, PROXY
 DOMAIN-SUFFIX, huyandex.com, PROXY
 DOMAIN-SUFFIX, hwadzan.tw, PROXY
 DOMAIN-SUFFIX, hwayue.org.tw, PROXY
-DOMAIN-SUFFIX, hwinfo.com, PROXY
 DOMAIN-SUFFIX, hxwk.org, PROXY
 DOMAIN-SUFFIX, hxwq.org, PROXY
 DOMAIN-SUFFIX, hybrid-analysis.com, PROXY
