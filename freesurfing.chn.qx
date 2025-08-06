@@ -6575,7 +6575,6 @@ ip-cidr,202.8.4.0/23, DIRECT
 ip-cidr,202.8.12.0/24, DIRECT
 ip-cidr,202.8.24.0/24, DIRECT
 ip-cidr,202.8.77.0/24, DIRECT
-ip-cidr,202.8.120.0/22, DIRECT
 ip-cidr,202.8.128.0/19, DIRECT
 ip-cidr,202.8.192.0/20, DIRECT
 ip-cidr,202.9.32.0/24, DIRECT
