@@ -691,6 +691,8 @@ DOMAIN-SUFFIX, brutaltgp.com, PROXY
 DOMAIN-SUFFIX, bsky.app, PROXY
 DOMAIN-SUFFIX, bsky.network, PROXY
 DOMAIN-SUFFIX, bsky.social, PROXY
+DOMAIN-SUFFIX, bt4g.org, PROXY
+DOMAIN-SUFFIX, bt4gprx.com, PROXY
 DOMAIN-SUFFIX, bt95.com, PROXY
 DOMAIN-SUFFIX, btaia.com, PROXY
 DOMAIN-SUFFIX, btbit.net, PROXY
@@ -2527,6 +2529,7 @@ DOMAIN-SUFFIX, iphone4hongkong.com, PROXY
 DOMAIN-SUFFIX, iphonetaiwan.org, PROXY
 DOMAIN-SUFFIX, iphonix.fr, PROXY
 DOMAIN-SUFFIX, ipicture.ru, PROXY
+DOMAIN-SUFFIX, ipify.org, PROXY
 DOMAIN-SUFFIX, ipjetable.net, PROXY
 DOMAIN-SUFFIX, ipobar.com, PROXY
 DOMAIN-SUFFIX, ipoock.com, PROXY
@@ -4507,6 +4510,7 @@ DOMAIN-SUFFIX, talkcc.com, PROXY
 DOMAIN-SUFFIX, talkonly.net, PROXY
 DOMAIN-SUFFIX, tanc.org, PROXY
 DOMAIN-SUFFIX, tangren.us, PROXY
+DOMAIN-SUFFIX, tanks.gg, PROXY
 DOMAIN-SUFFIX, taoism.net, PROXY
 DOMAIN-SUFFIX, tapanwap.com, PROXY
 DOMAIN-SUFFIX, tapatalk.com, PROXY
