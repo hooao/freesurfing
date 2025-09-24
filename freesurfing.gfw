@@ -317,6 +317,7 @@ DOMAIN-SUFFIX, apetube.com, PROXY
 DOMAIN-SUFFIX, api-secure.recaptcha.net, PROXY
 DOMAIN-SUFFIX, api-verify.recaptcha.net, PROXY
 DOMAIN-SUFFIX, api.ai, PROXY
+DOMAIN-SUFFIX, api.palworldgame.com, PROXY
 DOMAIN-SUFFIX, api.pureapk.com, PROXY
 DOMAIN-SUFFIX, api.recaptcha.net, PROXY
 DOMAIN-SUFFIX, api.steampowered.com, PROXY
@@ -1124,6 +1125,7 @@ DOMAIN-SUFFIX, csuchen.de, PROXY
 DOMAIN-SUFFIX, csw.org.uk, PROXY
 DOMAIN-SUFFIX, ct.org.tw, PROXY
 DOMAIN-SUFFIX, ctao.org, PROXY
+DOMAIN-SUFFIX, ctinets.com, PROXY
 DOMAIN-SUFFIX, ctinews.com, PROXY
 DOMAIN-SUFFIX, ctitv.com.tw, PROXY
 DOMAIN-SUFFIX, ctowc.org, PROXY
@@ -2518,6 +2520,7 @@ DOMAIN-SUFFIX, internet.org, PROXY
 DOMAIN-SUFFIX, internetdefenseleague.org, PROXY
 DOMAIN-SUFFIX, internetfreedom.org, PROXY
 DOMAIN-SUFFIX, internetpopculture.com, PROXY
+DOMAIN-SUFFIX, interseclab.org, PROXY
 DOMAIN-SUFFIX, inthenameofconfuciusmovie.com, PROXY
 DOMAIN-SUFFIX, investigating.wordpress.com, PROXY
 DOMAIN-SUFFIX, invidio.us, PROXY
@@ -3485,6 +3488,7 @@ DOMAIN-SUFFIX, occupytiananmen.com, PROXY
 DOMAIN-SUFFIX, ocreampies.com, PROXY
 DOMAIN-SUFFIX, ocry.com, PROXY
 DOMAIN-SUFFIX, october-review.org, PROXY
+DOMAIN-SUFFIX, octocaptcha.com, PROXY
 DOMAIN-SUFFIX, oculus.com, PROXY
 DOMAIN-SUFFIX, oculuscdn.com, PROXY
 DOMAIN-SUFFIX, odysee.com, PROXY
