@@ -273,7 +273,8 @@ ip-cidr,42.242.0.0/15, DIRECT
 ip-cidr,42.244.0.0/14, DIRECT
 ip-cidr,42.248.0.0/13, DIRECT
 ip-cidr,43.136.0.0/13, DIRECT
-ip-cidr,43.144.0.0/13, DIRECT
+ip-cidr,43.144.0.0/15, DIRECT
+ip-cidr,43.148.0.0/14, DIRECT
 ip-cidr,43.176.0.0/12, DIRECT
 ip-cidr,43.192.0.0/15, DIRECT
 ip-cidr,43.194.0.0/16, DIRECT
@@ -6148,7 +6149,6 @@ ip-cidr,140.246.0.0/16, DIRECT
 ip-cidr,140.249.0.0/16, DIRECT
 ip-cidr,140.250.0.0/16, DIRECT
 ip-cidr,140.255.0.0/16, DIRECT
-ip-cidr,142.70.0.0/16, DIRECT
 ip-cidr,142.86.0.0/16, DIRECT
 ip-cidr,143.64.0.0/16, DIRECT
 ip-cidr,144.0.0.0/16, DIRECT
