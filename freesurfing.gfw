@@ -477,6 +477,7 @@ DOMAIN-SUFFIX, bb-chat.tv, PROXY
 DOMAIN-SUFFIX, bbc.co.uk, PROXY
 DOMAIN-SUFFIX, bbc.com, PROXY
 DOMAIN-SUFFIX, bbc.in, PROXY
+DOMAIN-SUFFIX, bbc.pdn.tritondigital.com, PROXY
 DOMAIN-SUFFIX, bbcchinese.com, PROXY
 DOMAIN-SUFFIX, bbchat.tv, PROXY
 DOMAIN-SUFFIX, bbci.co.uk, PROXY
@@ -1228,6 +1229,7 @@ DOMAIN-SUFFIX, db.tt, PROXY
 DOMAIN-SUFFIX, dbgjd.com, PROXY
 DOMAIN-SUFFIX, dcard.tw, PROXY
 DOMAIN-SUFFIX, dcmilitary.com, PROXY
+DOMAIN-SUFFIX, dcs-spotify.megaphone.fm, PROXY
 DOMAIN-SUFFIX, ddc.com.tw, PROXY
 DOMAIN-SUFFIX, ddex.io, PROXY
 DOMAIN-SUFFIX, ddns.info, PROXY
@@ -2221,6 +2223,7 @@ DOMAIN-SUFFIX, hegre-art.com, PROXY
 DOMAIN-SUFFIX, helloandroid.com, PROXY
 DOMAIN-SUFFIX, helloqueer.com, PROXY
 DOMAIN-SUFFIX, hellouk.org, PROXY
+DOMAIN-SUFFIX, help.byspotify.com, PROXY
 DOMAIN-SUFFIX, helpeachpeople.com, PROXY
 DOMAIN-SUFFIX, helpster.de, PROXY
 DOMAIN-SUFFIX, helpzhuling.org, PROXY
@@ -4566,6 +4569,7 @@ DOMAIN-SUFFIX, taedp.org.tw, PROXY
 DOMAIN-SUFFIX, tafm.org, PROXY
 DOMAIN-SUFFIX, tagwalk.com, PROXY
 DOMAIN-SUFFIX, tahr.org.tw, PROXY
+DOMAIN-SUFFIX, tails.net, PROXY
 DOMAIN-SUFFIX, taipei.gov.tw, PROXY
 DOMAIN-SUFFIX, taipeisociety.org, PROXY
 DOMAIN-SUFFIX, taipeitimes.com, PROXY
