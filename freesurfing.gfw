@@ -1357,6 +1357,7 @@ DOMAIN-SUFFIX, glorystar.me, PROXY
 DOMAIN-SUFFIX, glype.com, PROXY
 DOMAIN-SUFFIX, gmail.com, PROXY
 DOMAIN-SUFFIX, gmgard.com, PROXY
+DOMAIN-SUFFIX, gmgn.ai, PROXY
 DOMAIN-SUFFIX, gmodules.com, PROXY
 DOMAIN-SUFFIX, gmp4.com, PROXY
 DOMAIN-SUFFIX, gnci.org.hk, PROXY
@@ -3780,9 +3781,11 @@ DOMAIN-SUFFIX, w3s.link, PROXY
 DOMAIN-SUFFIX, waffle1999.com, PROXY
 DOMAIN-SUFFIX, wainao.me, PROXY
 DOMAIN-SUFFIX, walletconnect.com, PROXY
+DOMAIN-SUFFIX, walletconnect.org, PROXY
 DOMAIN-SUFFIX, wallmama.com, PROXY
 DOMAIN-SUFFIX, wallpapercasa.com, PROXY
 DOMAIN-SUFFIX, wallsttv.com, PROXY
+DOMAIN-SUFFIX, wallzhihu.com, PROXY
 DOMAIN-SUFFIX, waltermartin.com, PROXY
 DOMAIN-SUFFIX, waltermartin.org, PROXY
 DOMAIN-SUFFIX, wanderinghorse.net, PROXY
