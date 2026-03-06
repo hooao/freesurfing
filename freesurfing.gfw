@@ -916,6 +916,7 @@ DOMAIN-SUFFIX, dmc.nico, PROXY
 DOMAIN-SUFFIX, dmcdn.net, PROXY
 DOMAIN-SUFFIX, dmhy.org, PROXY
 DOMAIN-SUFFIX, dmm.co.jp, PROXY
+DOMAIN-SUFFIX, dns.cloudflare.com, PROXY
 DOMAIN-SUFFIX, dns2go.com, PROXY
 DOMAIN-SUFFIX, dnscrypt.org, PROXY
 DOMAIN-SUFFIX, dnssec.net, PROXY
@@ -944,6 +945,7 @@ DOMAIN-SUFFIX, douchi.space, PROXY
 DOMAIN-SUFFIX, dougscripts.com, PROXY
 DOMAIN-SUFFIX, doujincafe.com, PROXY
 DOMAIN-SUFFIX, download.aircrack-ng.org, PROXY
+DOMAIN-SUFFIX, download.dappcdn.com, PROXY
 DOMAIN-SUFFIX, dpool.top, PROXY
 DOMAIN-SUFFIX, dpp.org.tw, PROXY
 DOMAIN-SUFFIX, dpr.info, PROXY
@@ -1501,6 +1503,7 @@ DOMAIN-SUFFIX, google.com.vn, PROXY
 DOMAIN-SUFFIX, google.cv, PROXY
 DOMAIN-SUFFIX, google.cz, PROXY
 DOMAIN-SUFFIX, google.de, PROXY
+DOMAIN-SUFFIX, google.dev, PROXY
 DOMAIN-SUFFIX, google.dk, PROXY
 DOMAIN-SUFFIX, google.dm, PROXY
 DOMAIN-SUFFIX, google.dz, PROXY
@@ -1915,6 +1918,7 @@ DOMAIN-SUFFIX, internetpopculture.com, PROXY
 DOMAIN-SUFFIX, interseclab.org, PROXY
 DOMAIN-SUFFIX, inthenameofconfuciusmovie.com, PROXY
 DOMAIN-SUFFIX, investigating.wordpress.com, PROXY
+DOMAIN-SUFFIX, investing.com, PROXY
 DOMAIN-SUFFIX, invidio.us, PROXY
 DOMAIN-SUFFIX, inxian.com, PROXY
 DOMAIN-SUFFIX, ipdefenseforum.com, PROXY
