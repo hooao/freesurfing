@@ -550,6 +550,7 @@ DOMAIN-SUFFIX, byrut.org, PROXY
 DOMAIN-SUFFIX, c-est-simple.com, PROXY
 DOMAIN-SUFFIX, c-span.org, PROXY
 DOMAIN-SUFFIX, c-spanvideo.org, PROXY
+DOMAIN-SUFFIX, c.go-mpulse.net, PROXY
 DOMAIN-SUFFIX, c.mi.com, PROXY
 DOMAIN-SUFFIX, c2cx.com, PROXY
 DOMAIN-SUFFIX, c3pool.com, PROXY
@@ -2961,6 +2962,7 @@ DOMAIN-SUFFIX, qiangyou.org, PROXY
 DOMAIN-SUFFIX, qianmo.tw, PROXY
 DOMAIN-SUFFIX, qiwen.lu, PROXY
 DOMAIN-SUFFIX, qmp4.com, PROXY
+DOMAIN-SUFFIX, qobuz.com, PROXY
 DOMAIN-SUFFIX, qoos.com, PROXY
 DOMAIN-SUFFIX, qq.co.za, PROXY
 DOMAIN-SUFFIX, qstatus.com, PROXY
